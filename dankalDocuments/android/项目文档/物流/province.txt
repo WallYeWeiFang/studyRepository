@@ -1,0 +1,4562 @@
+[ {
+	"id" : "82804",
+	"name" : "Abra",
+	"city" : [ {
+		"id" : "82805",
+		"name" : "Bangued"
+	}, {
+		"id" : "82824",
+		"name" : "Pidigan"
+	}, {
+		"id" : "82833",
+		"name" : "San Quintin"
+	}, {
+		"id" : "82837",
+		"name" : "Tayum"
+	} ]
+}, {
+	"id" : "82841",
+	"name" : "Agusan Del Norte",
+	"city" : [ {
+		"id" : "82842",
+		"name" : "Buenavista"
+	}, {
+		"id" : "82862",
+		"name" : "Butuan"
+	}, {
+		"id" : "82918",
+		"name" : "Cabadbaran"
+	}, {
+		"id" : "82946",
+		"name" : "Carmen"
+	}, {
+		"id" : "82956",
+		"name" : "Jabonga"
+	}, {
+		"id" : "82962",
+		"name" : "Kitcharao"
+	}, {
+		"id" : "82970",
+		"name" : "Magallanes"
+	}, {
+		"id" : "82975",
+		"name" : "Nasipit"
+	}, {
+		"id" : "82993",
+		"name" : "Rumualdez"
+	}, {
+		"id" : "82996",
+		"name" : "Santiago"
+	}, {
+		"id" : "83003",
+		"name" : "Tubay"
+	} ]
+}, {
+	"id" : "83009",
+	"name" : "Agusan Del Sur",
+	"city" : [ {
+		"id" : "83010",
+		"name" : "Bayugan"
+	}, {
+		"id" : "83041",
+		"name" : "Bunawan"
+	}, {
+		"id" : "83057",
+		"name" : "Esperanza"
+	}, {
+		"id" : "83062",
+		"name" : "Prosperidad"
+	}, {
+		"id" : "83117",
+		"name" : "Rosario"
+	}, {
+		"id" : "83131",
+		"name" : "San Francisco"
+	}, {
+		"id" : "83157",
+		"name" : "Santa Josefa"
+	}, {
+		"id" : "83163",
+		"name" : "Sibagat"
+	}, {
+		"id" : "83166",
+		"name" : "Talacogon"
+	}, {
+		"id" : "83183",
+		"name" : "Trento"
+	}, {
+		"id" : "83194",
+		"name" : "Veruela"
+	} ]
+}, {
+	"id" : "83198",
+	"name" : "Aklan",
+	"city" : [ {
+		"id" : "83199",
+		"name" : "Banga"
+	}, {
+		"id" : "83236",
+		"name" : "Ibajay"
+	}, {
+		"id" : "83272",
+		"name" : "Kalibo"
+	}, {
+		"id" : "83291",
+		"name" : "Lezo"
+	}, {
+		"id" : "83304",
+		"name" : "Makato"
+	}, {
+		"id" : "83341",
+		"name" : "Malay"
+	}, {
+		"id" : "83356",
+		"name" : "Malay (Boracay)"
+	}, {
+		"id" : "83360",
+		"name" : "Malinao"
+	}, {
+		"id" : "83385",
+		"name" : "Nabas"
+	}, {
+		"id" : "83406",
+		"name" : "New Washington"
+	}, {
+		"id" : "83435",
+		"name" : "Numancia"
+	}, {
+		"id" : "83454",
+		"name" : "Tangalan"
+	} ]
+}, {
+	"id" : "83478",
+	"name" : "Albay",
+	"city" : [ {
+		"id" : "83479",
+		"name" : "Bacacay"
+	}, {
+		"id" : "83538",
+		"name" : "Camalig"
+	}, {
+		"id" : "83609",
+		"name" : "Daraga"
+	}, {
+		"id" : "83677",
+		"name" : "Guinobatan"
+	}, {
+		"id" : "83728",
+		"name" : "Jovellar"
+	}, {
+		"id" : "83752",
+		"name" : "Legaspi City"
+	}, {
+		"id" : "83825",
+		"name" : "Libon"
+	}, {
+		"id" : "83873",
+		"name" : "Ligao"
+	}, {
+		"id" : "83931",
+		"name" : "Malilipot"
+	}, {
+		"id" : "83951",
+		"name" : "Malinao"
+	}, {
+		"id" : "83981",
+		"name" : "Manito"
+	}, {
+		"id" : "83997",
+		"name" : "Oas"
+	}, {
+		"id" : "84053",
+		"name" : "Pio Duran"
+	}, {
+		"id" : "84087",
+		"name" : "Polangui"
+	}, {
+		"id" : "84138",
+		"name" : "Rapu-Rapu"
+	}, {
+		"id" : "84173",
+		"name" : "Santo Domingo"
+	}, {
+		"id" : "84203",
+		"name" : "Tabaco"
+	}, {
+		"id" : "84253",
+		"name" : "Tiwi"
+	} ]
+}, {
+	"id" : "84279",
+	"name" : "Antique",
+	"city" : [ {
+		"id" : "84280",
+		"name" : "Belison"
+	}, {
+		"id" : "84291",
+		"name" : "Culasi"
+	}, {
+		"id" : "84336",
+		"name" : "Hamtic"
+	}, {
+		"id" : "84375",
+		"name" : "Libertad"
+	}, {
+		"id" : "84395",
+		"name" : "Pandan"
+	}, {
+		"id" : "84429",
+		"name" : "Patnongon"
+	}, {
+		"id" : "84466",
+		"name" : "San Jose"
+	}, {
+		"id" : "84494",
+		"name" : "Sebaste"
+	}, {
+		"id" : "84505",
+		"name" : "Sibalom"
+	}, {
+		"id" : "84582",
+		"name" : "Tobias Fornier Dao"
+	} ]
+}, {
+	"id" : "84633",
+	"name" : "Apayao",
+	"city" : [ {
+		"id" : "84634",
+		"name" : "Calanasan(Bayag)"
+	}, {
+		"id" : "84636",
+		"name" : "Conner"
+	}, {
+		"id" : "84638",
+		"name" : "Flora"
+	}, {
+		"id" : "84640",
+		"name" : "Kabugao"
+	}, {
+		"id" : "84642",
+		"name" : "Luna(Macatel)"
+	}, {
+		"id" : "84666",
+		"name" : "Pudtol"
+	}, {
+		"id" : "84668",
+		"name" : "Santa Marcela"
+	} ]
+}, {
+	"id" : "84670",
+	"name" : "Aurora",
+	"city" : [ {
+		"id" : "84671",
+		"name" : "Baler"
+	}, {
+		"id" : "84685",
+		"name" : "Dipaculao"
+	}, {
+		"id" : "84700",
+		"name" : "Maria Aurora"
+	}, {
+		"id" : "84721",
+		"name" : "San Luis"
+	} ]
+}, {
+	"id" : "84735",
+	"name" : "Basilan",
+	"city" : [ {
+		"id" : "84736",
+		"name" : "Isabela"
+	}, {
+		"id" : "84764",
+		"name" : "Lamitan"
+	}, {
+		"id" : "84783",
+		"name" : "Maluso"
+	} ]
+}, {
+	"id" : "84794",
+	"name" : "Bataan",
+	"city" : [ {
+		"id" : "84795",
+		"name" : "Abucay"
+	}, {
+		"id" : "84805",
+		"name" : "Bagac"
+	}, {
+		"id" : "84820",
+		"name" : "Balanga"
+	}, {
+		"id" : "84844",
+		"name" : "Dinalupihan"
+	}, {
+		"id" : "84891",
+		"name" : "Hermosa"
+	}, {
+		"id" : "84914",
+		"name" : "Limay"
+	}, {
+		"id" : "84928",
+		"name" : "Mariveles"
+	}, {
+		"id" : "84950",
+		"name" : "Morong"
+	}, {
+		"id" : "84956",
+		"name" : "Orani"
+	}, {
+		"id" : "84984",
+		"name" : "Orion"
+	}, {
+		"id" : "85008",
+		"name" : "Pilar"
+	}, {
+		"id" : "85025",
+		"name" : "Samal"
+	} ]
+}, {
+	"id" : "85040",
+	"name" : "Batanes",
+	"city" : [ {
+		"id" : "85041",
+		"name" : "Basco"
+	}, {
+		"id" : "85048",
+		"name" : "Itbayat"
+	}, {
+		"id" : "85050",
+		"name" : "Ivana"
+	}, {
+		"id" : "85055",
+		"name" : "Maitatao"
+	}, {
+		"id" : "85062",
+		"name" : "Sabtang"
+	}, {
+		"id" : "85064",
+		"name" : "Uyugan"
+	} ]
+}, {
+	"id" : "85069",
+	"name" : "Batangas",
+	"city" : [ {
+		"id" : "85070",
+		"name" : "Agoncillo"
+	}, {
+		"id" : "85093",
+		"name" : "Alitagtag"
+	}, {
+		"id" : "85114",
+		"name" : "Balayan"
+	}, {
+		"id" : "85174",
+		"name" : "Balete"
+	}, {
+		"id" : "85189",
+		"name" : "Batangas City"
+	}, {
+		"id" : "85311",
+		"name" : "Bauan"
+	}, {
+		"id" : "85363",
+		"name" : "Calaca"
+	}, {
+		"id" : "85409",
+		"name" : "Calatagan"
+	}, {
+		"id" : "85440",
+		"name" : "Cuenca"
+	}, {
+		"id" : "85463",
+		"name" : "Ibaan"
+	}, {
+		"id" : "85499",
+		"name" : "Laurel"
+	}, {
+		"id" : "85521",
+		"name" : "Lemery"
+	}, {
+		"id" : "85583",
+		"name" : "Lian"
+	}, {
+		"id" : "85605",
+		"name" : "Lipa City"
+	}, {
+		"id" : "85679",
+		"name" : "Lobo"
+	}, {
+		"id" : "85706",
+		"name" : "Mabini"
+	}, {
+		"id" : "85752",
+		"name" : "Malvar"
+	}, {
+		"id" : "85771",
+		"name" : "Mataas Na Kahoy"
+	}, {
+		"id" : "85787",
+		"name" : "Nasugbu"
+	}, {
+		"id" : "85847",
+		"name" : "Padre Garcia"
+	}, {
+		"id" : "85867",
+		"name" : "Rosario"
+	}, {
+		"id" : "85917",
+		"name" : "San Jose"
+	}, {
+		"id" : "85969",
+		"name" : "San Juan"
+	}, {
+		"id" : "86030",
+		"name" : "San Luis"
+	}, {
+		"id" : "86058",
+		"name" : "San Nicolas"
+	}, {
+		"id" : "86080",
+		"name" : "San Pascual"
+	}, {
+		"id" : "86114",
+		"name" : "Santa Teresita"
+	}, {
+		"id" : "86132",
+		"name" : "Santo Tomas"
+	}, {
+		"id" : "86164",
+		"name" : "Taal"
+	}, {
+		"id" : "86207",
+		"name" : "Talisay"
+	}, {
+		"id" : "86229",
+		"name" : "Tanauan"
+	}, {
+		"id" : "86295",
+		"name" : "Taysan"
+	}, {
+		"id" : "86316",
+		"name" : "Tingloy"
+	}, {
+		"id" : "86332",
+		"name" : "Tuy"
+	} ]
+}, {
+	"id" : "86359",
+	"name" : "Benguet",
+	"city" : [ {
+		"id" : "86360",
+		"name" : "Atok"
+	}, {
+		"id" : "86369",
+		"name" : "Baguio"
+	}, {
+		"id" : "86508",
+		"name" : "Bakun"
+	}, {
+		"id" : "86516",
+		"name" : "Bokod"
+	}, {
+		"id" : "86527",
+		"name" : "Buguias"
+	}, {
+		"id" : "86545",
+		"name" : "Itogon"
+	}, {
+		"id" : "86555",
+		"name" : "Kabayan"
+	}, {
+		"id" : "86569",
+		"name" : "Kapangan"
+	}, {
+		"id" : "86585",
+		"name" : "Kibungan"
+	}, {
+		"id" : "86593",
+		"name" : "La Trinidad"
+	}, {
+		"id" : "86629",
+		"name" : "Mankayan"
+	}, {
+		"id" : "86642",
+		"name" : "Sablan"
+	}, {
+		"id" : "86651",
+		"name" : "Tuba"
+	}, {
+		"id" : "86665",
+		"name" : "Tublay"
+	} ]
+}, {
+	"id" : "86674",
+	"name" : "Biliran",
+	"city" : [ {
+		"id" : "86675",
+		"name" : "Almeria"
+	}, {
+		"id" : "86691",
+		"name" : "Biliran"
+	}, {
+		"id" : "86703",
+		"name" : "Cabucgayan"
+	}, {
+		"id" : "86717",
+		"name" : "Caibiran"
+	}, {
+		"id" : "86735",
+		"name" : "Culaba"
+	}, {
+		"id" : "86753",
+		"name" : "Higatangan"
+	}, {
+		"id" : "86755",
+		"name" : "Kawayan"
+	}, {
+		"id" : "86776",
+		"name" : "Maripipi"
+	}, {
+		"id" : "86792",
+		"name" : "Naval (Capital)"
+	} ]
+}, {
+	"id" : "86833",
+	"name" : "Bohol",
+	"city" : [ {
+		"id" : "86834",
+		"name" : "Alburquerque"
+	}, {
+		"id" : "86846",
+		"name" : "Alicia"
+	}, {
+		"id" : "86862",
+		"name" : "Anda"
+	}, {
+		"id" : "86880",
+		"name" : "Antequera"
+	}, {
+		"id" : "86902",
+		"name" : "Baclayon"
+	}, {
+		"id" : "86920",
+		"name" : "Balilihan"
+	}, {
+		"id" : "86952",
+		"name" : "Batuan"
+	}, {
+		"id" : "86968",
+		"name" : "Bien Unido"
+	}, {
+		"id" : "86984",
+		"name" : "Bilar"
+	}, {
+		"id" : "87004",
+		"name" : "Buenavista"
+	}, {
+		"id" : "87040",
+		"name" : "Calape"
+	}, {
+		"id" : "87074",
+		"name" : "Candijay"
+	}, {
+		"id" : "87095",
+		"name" : "Carmen"
+	}, {
+		"id" : "87125",
+		"name" : "Catigbian"
+	}, {
+		"id" : "87148",
+		"name" : "Clarin"
+	}, {
+		"id" : "87173",
+		"name" : "Corella"
+	}, {
+		"id" : "87182",
+		"name" : "Cortes"
+	}, {
+		"id" : "87197",
+		"name" : "Dagohoy"
+	}, {
+		"id" : "87213",
+		"name" : "Danao"
+	}, {
+		"id" : "87231",
+		"name" : "Dauis"
+	}, {
+		"id" : "87244",
+		"name" : "Dimiao"
+	}, {
+		"id" : "87280",
+		"name" : "Duero"
+	}, {
+		"id" : "87302",
+		"name" : "Garcia Hernandez"
+	}, {
+		"id" : "87333",
+		"name" : "Getafe"
+	}, {
+		"id" : "87358",
+		"name" : "Guindulman"
+	}, {
+		"id" : "87378",
+		"name" : "Inabanga"
+	}, {
+		"id" : "87429",
+		"name" : "Jagna"
+	}, {
+		"id" : "87463",
+		"name" : "Lila"
+	}, {
+		"id" : "87482",
+		"name" : "Loay"
+	}, {
+		"id" : "87507",
+		"name" : "Loboc"
+	}, {
+		"id" : "87536",
+		"name" : "Loon"
+	}, {
+		"id" : "87604",
+		"name" : "Mabini"
+	}, {
+		"id" : "87627",
+		"name" : "Maribojoc"
+	}, {
+		"id" : "87651",
+		"name" : "Panglao"
+	}, {
+		"id" : "87663",
+		"name" : "Pilar"
+	}, {
+		"id" : "87680",
+		"name" : "President Carlos P. Garcia (Pitogo)"
+	}, {
+		"id" : "87704",
+		"name" : "Sagbayan (Borja)"
+	}, {
+		"id" : "87729",
+		"name" : "San Isidro"
+	}, {
+		"id" : "87742",
+		"name" : "San Miguel"
+	}, {
+		"id" : "87761",
+		"name" : "Sevilla"
+	}, {
+		"id" : "87775",
+		"name" : "Sierra Bullones"
+	}, {
+		"id" : "87799",
+		"name" : "Sikatuna"
+	}, {
+		"id" : "87810",
+		"name" : "Tagbilaran City (Capital)"
+	}, {
+		"id" : "87827",
+		"name" : "Talibon"
+	}, {
+		"id" : "87853",
+		"name" : "Trinidad"
+	}, {
+		"id" : "87874",
+		"name" : "Tubigon"
+	}, {
+		"id" : "87909",
+		"name" : "Ubay"
+	}, {
+		"id" : "87947",
+		"name" : "Valencia"
+	} ]
+}, {
+	"id" : "87983",
+	"name" : "Bukidnon",
+	"city" : [ {
+		"id" : "87984",
+		"name" : "Baungon"
+	}, {
+		"id" : "87989",
+		"name" : "Camp Philips"
+	}, {
+		"id" : "88003",
+		"name" : "Damulog"
+	}, {
+		"id" : "88007",
+		"name" : "Dangcagan"
+	}, {
+		"id" : "88011",
+		"name" : "Don Carlos"
+	}, {
+		"id" : "88019",
+		"name" : "Impasug-Ong"
+	}, {
+		"id" : "88037",
+		"name" : "Kalilangan"
+	}, {
+		"id" : "88042",
+		"name" : "Kibawe"
+	}, {
+		"id" : "88050",
+		"name" : "Kitaotao"
+	}, {
+		"id" : "88057",
+		"name" : "Lantapan"
+	}, {
+		"id" : "88066",
+		"name" : "Malaybalay City"
+	}, {
+		"id" : "88110",
+		"name" : "Manolo Fortich"
+	}, {
+		"id" : "88124",
+		"name" : "Maramag"
+	}, {
+		"id" : "88141",
+		"name" : "Musuan"
+	}, {
+		"id" : "88143",
+		"name" : "Pangantucan"
+	}, {
+		"id" : "88149",
+		"name" : "Quezon"
+	}, {
+		"id" : "88164",
+		"name" : "Sumilao"
+	}, {
+		"id" : "88171",
+		"name" : "Talakag"
+	}, {
+		"id" : "88179",
+		"name" : "Valencia City"
+	} ]
+}, {
+	"id" : "88194",
+	"name" : "Bulacan",
+	"city" : [ {
+		"id" : "88195",
+		"name" : "Angat"
+	}, {
+		"id" : "88212",
+		"name" : "Balagtas"
+	}, {
+		"id" : "88223",
+		"name" : "Baliuag"
+	}, {
+		"id" : "88251",
+		"name" : "Bocaue"
+	}, {
+		"id" : "88271",
+		"name" : "Bulacan"
+	}, {
+		"id" : "88286",
+		"name" : "Bustos"
+	}, {
+		"id" : "88301",
+		"name" : "Calumpit"
+	}, {
+		"id" : "88333",
+		"name" : "Dona Remedios Trinidad (Drt)"
+	}, {
+		"id" : "88342",
+		"name" : "Guiguinto"
+	}, {
+		"id" : "88357",
+		"name" : "Hagonoy"
+	}, {
+		"id" : "88385",
+		"name" : "Malolos"
+	}, {
+		"id" : "88438",
+		"name" : "Marilao"
+	}, {
+		"id" : "88455",
+		"name" : "Meycauayan"
+	}, {
+		"id" : "88482",
+		"name" : "Norzagaray"
+	}, {
+		"id" : "88496",
+		"name" : "Obando"
+	}, {
+		"id" : "88508",
+		"name" : "Pandi"
+	}, {
+		"id" : "88531",
+		"name" : "Paombong"
+	}, {
+		"id" : "88547",
+		"name" : "Plaridel"
+	}, {
+		"id" : "88569",
+		"name" : "Pulilan"
+	}, {
+		"id" : "88589",
+		"name" : "San Ildefonso"
+	}, {
+		"id" : "88626",
+		"name" : "San Jose Del Monte"
+	}, {
+		"id" : "88685",
+		"name" : "San Miguel"
+	}, {
+		"id" : "88735",
+		"name" : "San Rafael"
+	}, {
+		"id" : "88770",
+		"name" : "Santa Maria"
+	} ]
+}, {
+	"id" : "88795",
+	"name" : "Cagayan",
+	"city" : [ {
+		"id" : "88796",
+		"name" : "Abulug"
+	}, {
+		"id" : "88817",
+		"name" : "Alcala"
+	}, {
+		"id" : "88843",
+		"name" : "Allacapan"
+	}, {
+		"id" : "88871",
+		"name" : "Amulung"
+	}, {
+		"id" : "88919",
+		"name" : "Aparri"
+	}, {
+		"id" : "88962",
+		"name" : "Baggao"
+	}, {
+		"id" : "89011",
+		"name" : "Ballesteros"
+	}, {
+		"id" : "89031",
+		"name" : "Buguey"
+	}, {
+		"id" : "89062",
+		"name" : "Calayan"
+	}, {
+		"id" : "89075",
+		"name" : "Camalaniugan"
+	}, {
+		"id" : "89104",
+		"name" : "Claveria"
+	}, {
+		"id" : "89146",
+		"name" : "Enrile"
+	}, {
+		"id" : "89169",
+		"name" : "Gattaran"
+	}, {
+		"id" : "89216",
+		"name" : "Gonzaga"
+	}, {
+		"id" : "89242",
+		"name" : "Iguig"
+	}, {
+		"id" : "89266",
+		"name" : "Lal-Lo"
+	}, {
+		"id" : "89302",
+		"name" : "Lasam"
+	}, {
+		"id" : "89332",
+		"name" : "Pamplona"
+	}, {
+		"id" : "89351",
+		"name" : "Penablanca"
+	}, {
+		"id" : "89376",
+		"name" : "Piat"
+	}, {
+		"id" : "89395",
+		"name" : "Rizal"
+	}, {
+		"id" : "89425",
+		"name" : "Sanchez-Mira"
+	}, {
+		"id" : "89444",
+		"name" : "Santa Ana"
+	}, {
+		"id" : "89461",
+		"name" : "Santa Pracedez"
+	}, {
+		"id" : "89472",
+		"name" : "Santa Teresita"
+	}, {
+		"id" : "89486",
+		"name" : "Santo Nino (Faire)"
+	}, {
+		"id" : "89518",
+		"name" : "Solana"
+	}, {
+		"id" : "89557",
+		"name" : "Tuao"
+	}, {
+		"id" : "89590",
+		"name" : "Tuguegarao (Capital)"
+	} ]
+}, {
+	"id" : "89640",
+	"name" : "Camarines Norte",
+	"city" : [ {
+		"id" : "89641",
+		"name" : "Basud"
+	}, {
+		"id" : "89671",
+		"name" : "Capalonga"
+	}, {
+		"id" : "89694",
+		"name" : "Daet"
+	}, {
+		"id" : "89731",
+		"name" : "Jose Panganiban"
+	}, {
+		"id" : "89759",
+		"name" : "Labo"
+	}, {
+		"id" : "89840",
+		"name" : "Mercedez"
+	}, {
+		"id" : "89868",
+		"name" : "Paracale"
+	}, {
+		"id" : "89897",
+		"name" : "San Lorenzo Ruiz (Imelda)"
+	}, {
+		"id" : "89910",
+		"name" : "San Vicente"
+	}, {
+		"id" : "89921",
+		"name" : "Santa Elena"
+	}, {
+		"id" : "89941",
+		"name" : "Talisay"
+	}, {
+		"id" : "89957",
+		"name" : "Vinzons"
+	} ]
+}, {
+	"id" : "89980",
+	"name" : "Camarines Sur",
+	"city" : [ {
+		"id" : "89981",
+		"name" : "Baao"
+	}, {
+		"id" : "90015",
+		"name" : "Balatan"
+	}, {
+		"id" : "90033",
+		"name" : "Bato"
+	}, {
+		"id" : "90068",
+		"name" : "Bombon"
+	}, {
+		"id" : "90077",
+		"name" : "Buhi"
+	}, {
+		"id" : "90121",
+		"name" : "Bula"
+	}, {
+		"id" : "90154",
+		"name" : "Cabusao"
+	}, {
+		"id" : "90164",
+		"name" : "Calabanga"
+	}, {
+		"id" : "90212",
+		"name" : "Camaligan"
+	}, {
+		"id" : "90226",
+		"name" : "Canaman"
+	}, {
+		"id" : "90251",
+		"name" : "Caramoan"
+	}, {
+		"id" : "90301",
+		"name" : "Del Gallego"
+	}, {
+		"id" : "90334",
+		"name" : "Gainza"
+	}, {
+		"id" : "90343",
+		"name" : "Garchitorena"
+	}, {
+		"id" : "90367",
+		"name" : "Goa"
+	}, {
+		"id" : "90412",
+		"name" : "Iriga City"
+	}, {
+		"id" : "90450",
+		"name" : "Lagonoy"
+	}, {
+		"id" : "90492",
+		"name" : "Libmanan"
+	}, {
+		"id" : "90578",
+		"name" : "Lupi"
+	}, {
+		"id" : "90617",
+		"name" : "Magarao"
+	}, {
+		"id" : "90633",
+		"name" : "Milaor"
+	}, {
+		"id" : "90654",
+		"name" : "Minalabac"
+	}, {
+		"id" : "90680",
+		"name" : "Nabua"
+	}, {
+		"id" : "90726",
+		"name" : "Naga City"
+	}, {
+		"id" : "90755",
+		"name" : "Ocampo"
+	}, {
+		"id" : "90785",
+		"name" : "Pamplona"
+	}, {
+		"id" : "90804",
+		"name" : "Pasacao"
+	}, {
+		"id" : "90825",
+		"name" : "Pili"
+	}, {
+		"id" : "90854",
+		"name" : "Presentacion (Parubcan)"
+	}, {
+		"id" : "90873",
+		"name" : "Ragay"
+	}, {
+		"id" : "90911",
+		"name" : "Sagnay"
+	}, {
+		"id" : "90932",
+		"name" : "San Fernando"
+	}, {
+		"id" : "90955",
+		"name" : "San Jose"
+	}, {
+		"id" : "90988",
+		"name" : "Sipocot"
+	}, {
+		"id" : "91035",
+		"name" : "Siruma"
+	}, {
+		"id" : "91058",
+		"name" : "Tigaon"
+	}, {
+		"id" : "91088",
+		"name" : "Tinambac"
+	} ]
+}, {
+	"id" : "91133",
+	"name" : "Camiguin",
+	"city" : [ {
+		"id" : "91134",
+		"name" : "Catarman"
+	}, {
+		"id" : "91144",
+		"name" : "Guinsiliban"
+	}, {
+		"id" : "91149",
+		"name" : "Mahinog"
+	}, {
+		"id" : "91159",
+		"name" : "Mambajao"
+	}, {
+		"id" : "91180",
+		"name" : "Sagay"
+	} ]
+}, {
+	"id" : "91187",
+	"name" : "Capiz",
+	"city" : [ {
+		"id" : "91188",
+		"name" : "Cuartero"
+	}, {
+		"id" : "91211",
+		"name" : "Dao"
+	}, {
+		"id" : "91232",
+		"name" : "Dumalag"
+	}, {
+		"id" : "91253",
+		"name" : "Dumarao"
+	}, {
+		"id" : "91279",
+		"name" : "Ivisan"
+	}, {
+		"id" : "91295",
+		"name" : "Jamindan"
+	}, {
+		"id" : "91327",
+		"name" : "Maayon"
+	}, {
+		"id" : "91360",
+		"name" : "Mambusao"
+	}, {
+		"id" : "91388",
+		"name" : "Panay"
+	}, {
+		"id" : "91431",
+		"name" : "Panitan"
+	}, {
+		"id" : "91458",
+		"name" : "Pilar"
+	}, {
+		"id" : "91485",
+		"name" : "Pontevedra"
+	}, {
+		"id" : "91515",
+		"name" : "President Roxas"
+	}, {
+		"id" : "91543",
+		"name" : "Roxas City"
+	}, {
+		"id" : "91589",
+		"name" : "Sigma"
+	} ]
+}, {
+	"id" : "91611",
+	"name" : "Catanduanes",
+	"city" : [ {
+		"id" : "91612",
+		"name" : "Bagamanoc"
+	}, {
+		"id" : "91631",
+		"name" : "Baras"
+	}, {
+		"id" : "91661",
+		"name" : "Bato"
+	}, {
+		"id" : "91690",
+		"name" : "Caramoran"
+	}, {
+		"id" : "91718",
+		"name" : "Gigmoto"
+	}, {
+		"id" : "91727",
+		"name" : "Pandan"
+	}, {
+		"id" : "91754",
+		"name" : "Panganiban (Payo)"
+	}, {
+		"id" : "91777",
+		"name" : "San Andres (Calolbon)"
+	}, {
+		"id" : "91816",
+		"name" : "San Miguel"
+	}, {
+		"id" : "91841",
+		"name" : "Viga"
+	}, {
+		"id" : "91873",
+		"name" : "Virac"
+	} ]
+}, {
+	"id" : "91942",
+	"name" : "Cavite",
+	"city" : [ {
+		"id" : "91943",
+		"name" : "Alfonso"
+	}, {
+		"id" : "91969",
+		"name" : "Amadeo"
+	}, {
+		"id" : "91996",
+		"name" : "Bacoor"
+	}, {
+		"id" : "92001",
+		"name" : "Carmona"
+	}, {
+		"id" : "92009",
+		"name" : "Cavite City"
+	}, {
+		"id" : "92081",
+		"name" : "Dasmarinas"
+	}, {
+		"id" : "92189",
+		"name" : "G.M.A."
+	}, {
+		"id" : "92217",
+		"name" : "General Aguinaldo"
+	}, {
+		"id" : "92232",
+		"name" : "General Trias"
+	}, {
+		"id" : "92286",
+		"name" : "Imus"
+	}, {
+		"id" : "92373",
+		"name" : "Indang"
+	}, {
+		"id" : "92406",
+		"name" : "Kawit"
+	}, {
+		"id" : "92428",
+		"name" : "Magallanes"
+	}, {
+		"id" : "92446",
+		"name" : "Maragondon"
+	}, {
+		"id" : "92480",
+		"name" : "Mendez-Nunez"
+	}, {
+		"id" : "92774",
+		"name" : "Naic"
+	}, {
+		"id" : "92813",
+		"name" : "Noveleta"
+	}, {
+		"id" : "92835",
+		"name" : "Rosario"
+	}, {
+		"id" : "92955",
+		"name" : "Silang"
+	}, {
+		"id" : "93029",
+		"name" : "Tagaytay"
+	}, {
+		"id" : "93063",
+		"name" : "Tanza"
+	}, {
+		"id" : "93110",
+		"name" : "Ternate"
+	}, {
+		"id" : "93131",
+		"name" : "Trece Martirez"
+	} ]
+}, {
+	"id" : "93156",
+	"name" : "Cebu",
+	"city" : [ {
+		"id" : "93157",
+		"name" : "Alcantara"
+	}, {
+		"id" : "93167",
+		"name" : "Alcoy"
+	}, {
+		"id" : "93176",
+		"name" : "Alegria"
+	}, {
+		"id" : "93186",
+		"name" : "Aloguinsan"
+	}, {
+		"id" : "93188",
+		"name" : "Argao"
+	}, {
+		"id" : "93234",
+		"name" : "Asturias"
+	}, {
+		"id" : "93245",
+		"name" : "Badian"
+	}, {
+		"id" : "93256",
+		"name" : "Balamban"
+	}, {
+		"id" : "93271",
+		"name" : "Bantayan"
+	}, {
+		"id" : "93299",
+		"name" : "Barili"
+	}, {
+		"id" : "93329",
+		"name" : "Bogo"
+	}, {
+		"id" : "93362",
+		"name" : "Boljoon"
+	}, {
+		"id" : "93368",
+		"name" : "Borbon"
+	}, {
+		"id" : "93379",
+		"name" : "Camotes Poro"
+	}, {
+		"id" : "93397",
+		"name" : "Camotes San Francisco"
+	}, {
+		"id" : "93413",
+		"name" : "Camotes Tudela"
+	}, {
+		"id" : "93425",
+		"name" : "Carcar"
+	}, {
+		"id" : "93447",
+		"name" : "Carmen"
+	}, {
+		"id" : "93461",
+		"name" : "Catmon"
+	}, {
+		"id" : "93473",
+		"name" : "Cebu City"
+	}, {
+		"id" : "94112",
+		"name" : "Compostela"
+	}, {
+		"id" : "94127",
+		"name" : "Consolacion"
+	}, {
+		"id" : "94149",
+		"name" : "Cordova"
+	}, {
+		"id" : "94163",
+		"name" : "Daan Bantayan"
+	}, {
+		"id" : "94185",
+		"name" : "Dalaguete"
+	}, {
+		"id" : "94210",
+		"name" : "Danao City"
+	}, {
+		"id" : "94236",
+		"name" : "Dumanjug"
+	}, {
+		"id" : "94255",
+		"name" : "Ginatilan"
+	}, {
+		"id" : "94262",
+		"name" : "Lapu-Lapu City"
+	}, {
+		"id" : "94302",
+		"name" : "Lilo-An"
+	}, {
+		"id" : "94317",
+		"name" : "Madridejos"
+	}, {
+		"id" : "94332",
+		"name" : "Malabuyoc"
+	}, {
+		"id" : "94343",
+		"name" : "Mandaue"
+	}, {
+		"id" : "94375",
+		"name" : "Medellin"
+	}, {
+		"id" : "94392",
+		"name" : "Minglanilla"
+	}, {
+		"id" : "94413",
+		"name" : "Moalboal"
+	}, {
+		"id" : "94426",
+		"name" : "Naga"
+	}, {
+		"id" : "94448",
+		"name" : "Oslob"
+	}, {
+		"id" : "94458",
+		"name" : "Pinamungajan"
+	}, {
+		"id" : "94466",
+		"name" : "Ronda"
+	}, {
+		"id" : "94477",
+		"name" : "Samboan"
+	}, {
+		"id" : "94486",
+		"name" : "San Fernando"
+	}, {
+		"id" : "94499",
+		"name" : "San Remegio"
+	}, {
+		"id" : "94527",
+		"name" : "San Tander"
+	}, {
+		"id" : "94537",
+		"name" : "Santa Fe"
+	}, {
+		"id" : "94548",
+		"name" : "Sibonga"
+	}, {
+		"id" : "94574",
+		"name" : "Sogod"
+	}, {
+		"id" : "94593",
+		"name" : "Tabogon"
+	}, {
+		"id" : "94620",
+		"name" : "Tabuelan"
+	}, {
+		"id" : "94633",
+		"name" : "Talisay"
+	}, {
+		"id" : "94653",
+		"name" : "Toledo City"
+	}, {
+		"id" : "94684",
+		"name" : "Tuburan"
+	} ]
+}, {
+	"id" : "94706",
+	"name" : "Comval Province",
+	"city" : [ {
+		"id" : "94707",
+		"name" : "Compostela"
+	}, {
+		"id" : "94714",
+		"name" : "Mawab"
+	}, {
+		"id" : "94719",
+		"name" : "Monkayo"
+	}, {
+		"id" : "94752",
+		"name" : "Montevista"
+	}, {
+		"id" : "94765",
+		"name" : "Nabunturan"
+	}, {
+		"id" : "94818",
+		"name" : "New Bataan"
+	}, {
+		"id" : "94823",
+		"name" : "Puntukan"
+	} ]
+}, {
+	"id" : "94825",
+	"name" : "Davao Del Norte",
+	"city" : [ {
+		"id" : "94826",
+		"name" : "Babak, Island Garden City Of Samal"
+	}, {
+		"id" : "94842",
+		"name" : "Bato-Bato"
+	}, {
+		"id" : "94844",
+		"name" : "Carmen"
+	}, {
+		"id" : "94868",
+		"name" : "Island Garden City Of Samal"
+	}, {
+		"id" : "94870",
+		"name" : "Kapalong"
+	}, {
+		"id" : "94937",
+		"name" : "Kaputian, Island Garden City Of Samal"
+	}, {
+		"id" : "94952",
+		"name" : "Lupon"
+	}, {
+		"id" : "94954",
+		"name" : "Mabini"
+	}, {
+		"id" : "94956",
+		"name" : "Maco"
+	}, {
+		"id" : "94958",
+		"name" : "Panabo"
+	}, {
+		"id" : "95001",
+		"name" : "Penaplata, Island Garden City Of Samal"
+	}, {
+		"id" : "95020",
+		"name" : "Santo Tomas"
+	}, {
+		"id" : "95096",
+		"name" : "Tagum City"
+	}, {
+		"id" : "95134",
+		"name" : "Talaingod"
+	} ]
+}, {
+	"id" : "95136",
+	"name" : "Davao Del Sur",
+	"city" : [ {
+		"id" : "95137",
+		"name" : "Bansalan"
+	}, {
+		"id" : "95158",
+		"name" : "Davao City"
+	}, {
+		"id" : "95492",
+		"name" : "Digos"
+	}, {
+		"id" : "95516",
+		"name" : "Hagonoy"
+	}, {
+		"id" : "95535",
+		"name" : "Kiblawan"
+	}, {
+		"id" : "95537",
+		"name" : "Magsaysay"
+	}, {
+		"id" : "95543",
+		"name" : "Malalag"
+	}, {
+		"id" : "95552",
+		"name" : "Malita"
+	}, {
+		"id" : "95569",
+		"name" : "Matanao"
+	}, {
+		"id" : "95579",
+		"name" : "Padada"
+	}, {
+		"id" : "95600",
+		"name" : "Santa Cruz"
+	}, {
+		"id" : "95628",
+		"name" : "Santa Maria"
+	}, {
+		"id" : "95635",
+		"name" : "Sulop"
+	} ]
+}, {
+	"id" : "95645",
+	"name" : "Davao Oriental",
+	"city" : [ {
+		"id" : "95646",
+		"name" : "Baganga"
+	}, {
+		"id" : "95653",
+		"name" : "Banay Banay"
+	}, {
+		"id" : "95672",
+		"name" : "Boston"
+	}, {
+		"id" : "95682",
+		"name" : "Cateel"
+	}, {
+		"id" : "95694",
+		"name" : "Dahican"
+	}, {
+		"id" : "95696",
+		"name" : "Lupon"
+	}, {
+		"id" : "95737",
+		"name" : "Mati"
+	}, {
+		"id" : "95773",
+		"name" : "Matiao"
+	}, {
+		"id" : "95774",
+		"name" : "Pantukan"
+	}, {
+		"id" : "95776",
+		"name" : "San Isidro"
+	} ]
+}, {
+	"id" : "95787",
+	"name" : "Dinagat Islands",
+	"city" : [ {
+		"id" : "95788",
+		"name" : "Basilisa"
+	}, {
+		"id" : "95796",
+		"name" : "Cagdianao"
+	}, {
+		"id" : "95803",
+		"name" : "Dinagat Island"
+	}, {
+		"id" : "95813",
+		"name" : "Libjo (Albor)"
+	}, {
+		"id" : "95821",
+		"name" : "San Jose"
+	} ]
+}, {
+	"id" : "95833",
+	"name" : "Eastern Samar",
+	"city" : [ {
+		"id" : "95834",
+		"name" : "Arteche"
+	}, {
+		"id" : "95855",
+		"name" : "Balangkayan"
+	}, {
+		"id" : "95861",
+		"name" : "Borongan"
+	}, {
+		"id" : "95912",
+		"name" : "Can-Avid"
+	}, {
+		"id" : "95941",
+		"name" : "Dolores"
+	}, {
+		"id" : "95988",
+		"name" : "Guiuan"
+	}, {
+		"id" : "96028",
+		"name" : "Hernani"
+	}, {
+		"id" : "96041",
+		"name" : "Jipapad"
+	}, {
+		"id" : "96055",
+		"name" : "Llorente"
+	}, {
+		"id" : "96089",
+		"name" : "Maslog"
+	}, {
+		"id" : "96102",
+		"name" : "Maydolong"
+	}, {
+		"id" : "96121",
+		"name" : "Mercedes"
+	}, {
+		"id" : "96127",
+		"name" : "Oras"
+	}, {
+		"id" : "96170",
+		"name" : "Salcedo"
+	}, {
+		"id" : "96180",
+		"name" : "San Julian"
+	}, {
+		"id" : "96189",
+		"name" : "San Policarpio"
+	}, {
+		"id" : "96206",
+		"name" : "Sulat"
+	}, {
+		"id" : "96214",
+		"name" : "Taft"
+	} ]
+}, {
+	"id" : "96239",
+	"name" : "Guimaras",
+	"city" : [ {
+		"id" : "96240",
+		"name" : "Buenavista"
+	}, {
+		"id" : "96279",
+		"name" : "Jordan"
+	}, {
+		"id" : "96295",
+		"name" : "Nueva Valencia"
+	}, {
+		"id" : "96319",
+		"name" : "San Lorenzo"
+	}, {
+		"id" : "96335",
+		"name" : "Sibunag"
+	} ]
+}, {
+	"id" : "96356",
+	"name" : "Ifugao",
+	"city" : [ {
+		"id" : "96357",
+		"name" : "Aguinaldo"
+	}, {
+		"id" : "96374",
+		"name" : "Alfonso Lista (Potia)"
+	}, {
+		"id" : "96395",
+		"name" : "Asipulo"
+	}, {
+		"id" : "96405",
+		"name" : "Banaue"
+	}, {
+		"id" : "96424",
+		"name" : "Hingyon"
+	}, {
+		"id" : "96437",
+		"name" : "Hungduan"
+	}, {
+		"id" : "96447",
+		"name" : "Kiangan"
+	}, {
+		"id" : "96462",
+		"name" : "Lagawe (Capital)"
+	}, {
+		"id" : "96483",
+		"name" : "Lamut"
+	}, {
+		"id" : "96532",
+		"name" : "Tinoc"
+	} ]
+}, {
+	"id" : "96545",
+	"name" : "Ilocos Norte",
+	"city" : [ {
+		"id" : "96546",
+		"name" : "Adams"
+	}, {
+		"id" : "96548",
+		"name" : "Bacarra"
+	}, {
+		"id" : "96593",
+		"name" : "Badoc"
+	}, {
+		"id" : "96635",
+		"name" : "Bangui"
+	}, {
+		"id" : "96651",
+		"name" : "Batac"
+	}, {
+		"id" : "96699",
+		"name" : "Burgos"
+	}, {
+		"id" : "96731",
+		"name" : "Carasi"
+	}, {
+		"id" : "96735",
+		"name" : "Currimao"
+	}, {
+		"id" : "96760",
+		"name" : "Dingras"
+	}, {
+		"id" : "96792",
+		"name" : "Dumalneg"
+	}, {
+		"id" : "96794",
+		"name" : "Espiritu (Banna)"
+	}, {
+		"id" : "96815",
+		"name" : "Laoag City (Capital)"
+	}, {
+		"id" : "96896",
+		"name" : "Marcos"
+	}, {
+		"id" : "96910",
+		"name" : "Nueva Era"
+	}, {
+		"id" : "96922",
+		"name" : "Pagudpud"
+	}, {
+		"id" : "96939",
+		"name" : "Paoay"
+	}, {
+		"id" : "96971",
+		"name" : "Pasuquin"
+	}, {
+		"id" : "97005",
+		"name" : "Piddig"
+	}, {
+		"id" : "97029",
+		"name" : "Pinili"
+	}, {
+		"id" : "97056",
+		"name" : "San Nicolas"
+	}, {
+		"id" : "97081",
+		"name" : "Sarrat"
+	}, {
+		"id" : "97108",
+		"name" : "Solsona"
+	}, {
+		"id" : "97131",
+		"name" : "Vintar"
+	} ]
+}, {
+	"id" : "97166",
+	"name" : "Ilocos Sur",
+	"city" : [ {
+		"id" : "97167",
+		"name" : "Alilem"
+	}, {
+		"id" : "97177",
+		"name" : "Banayoyo"
+	}, {
+		"id" : "97192",
+		"name" : "Bantay"
+	}, {
+		"id" : "97229",
+		"name" : "Burgos"
+	}, {
+		"id" : "97256",
+		"name" : "Cabugao"
+	}, {
+		"id" : "97291",
+		"name" : "Candon"
+	}, {
+		"id" : "97334",
+		"name" : "Caoayan"
+	}, {
+		"id" : "97352",
+		"name" : "Cervantes"
+	}, {
+		"id" : "97366",
+		"name" : "Galimuyod"
+	}, {
+		"id" : "97391",
+		"name" : "Gregorio Del Pilar(Concepcion)"
+	}, {
+		"id" : "97399",
+		"name" : "Lidlidda"
+	}, {
+		"id" : "97411",
+		"name" : "Magsingal"
+	}, {
+		"id" : "97444",
+		"name" : "Nagbukel"
+	}, {
+		"id" : "97457",
+		"name" : "Narvacan"
+	}, {
+		"id" : "97492",
+		"name" : "Quirino (Angkaki)"
+	}, {
+		"id" : "97502",
+		"name" : "Salcedo (Baugen)"
+	}, {
+		"id" : "97524",
+		"name" : "San Emilio"
+	}, {
+		"id" : "97533",
+		"name" : "San Esteban"
+	}, {
+		"id" : "97544",
+		"name" : "San Ildefonso"
+	}, {
+		"id" : "97560",
+		"name" : "San Juan (Lapog)"
+	}, {
+		"id" : "97593",
+		"name" : "San Vicente"
+	}, {
+		"id" : "97601",
+		"name" : "Santa"
+	}, {
+		"id" : "97628",
+		"name" : "Santa Catalina"
+	}, {
+		"id" : "97638",
+		"name" : "Santa Cruz"
+	}, {
+		"id" : "97688",
+		"name" : "Santa Lucia"
+	}, {
+		"id" : "97725",
+		"name" : "Santa Maria"
+	}, {
+		"id" : "97761",
+		"name" : "Santiago"
+	}, {
+		"id" : "97786",
+		"name" : "Santo Domingo"
+	}, {
+		"id" : "97825",
+		"name" : "Sigay"
+	}, {
+		"id" : "97833",
+		"name" : "Sinait"
+	}, {
+		"id" : "97878",
+		"name" : "Sugpon"
+	}, {
+		"id" : "97885",
+		"name" : "Suyo"
+	}, {
+		"id" : "97894",
+		"name" : "Tagudin"
+	}, {
+		"id" : "97938",
+		"name" : "Vigan (Capital)"
+	} ]
+}, {
+	"id" : "97979",
+	"name" : "Iloilo",
+	"city" : [ {
+		"id" : "97980",
+		"name" : "Ajuy"
+	}, {
+		"id" : "98020",
+		"name" : "Alimodian"
+	}, {
+		"id" : "98070",
+		"name" : "Anilao"
+	}, {
+		"id" : "98092",
+		"name" : "Balasan"
+	}, {
+		"id" : "98116",
+		"name" : "Banate"
+	}, {
+		"id" : "98135",
+		"name" : "Barotac Nuevo"
+	}, {
+		"id" : "98166",
+		"name" : "Barotac Viejo"
+	}, {
+		"id" : "98193",
+		"name" : "Batad"
+	}, {
+		"id" : "98219",
+		"name" : "Bingawan"
+	}, {
+		"id" : "98235",
+		"name" : "Cabatuan"
+	}, {
+		"id" : "98304",
+		"name" : "Calinog"
+	}, {
+		"id" : "98370",
+		"name" : "Carles"
+	}, {
+		"id" : "98405",
+		"name" : "Concepcion"
+	}, {
+		"id" : "98432",
+		"name" : "Dingle"
+	}, {
+		"id" : "98466",
+		"name" : "Duenas"
+	}, {
+		"id" : "98514",
+		"name" : "Dumangas"
+	}, {
+		"id" : "98556",
+		"name" : "Estancia"
+	}, {
+		"id" : "98585",
+		"name" : "Guimbal"
+	}, {
+		"id" : "98612",
+		"name" : "Igbaras"
+	}, {
+		"id" : "98654",
+		"name" : "Iloilo City"
+	}, {
+		"id" : "98732",
+		"name" : "Janiuay"
+	}, {
+		"id" : "98777",
+		"name" : "Lambunao"
+	}, {
+		"id" : "98852",
+		"name" : "Leganes"
+	}, {
+		"id" : "98871",
+		"name" : "Lemery"
+	}, {
+		"id" : "98907",
+		"name" : "Leon"
+	}, {
+		"id" : "98995",
+		"name" : "Maasin"
+	}, {
+		"id" : "99044",
+		"name" : "Miag-Ao"
+	}, {
+		"id" : "99163",
+		"name" : "Mina"
+	}, {
+		"id" : "99185",
+		"name" : "New Lucena"
+	}, {
+		"id" : "99207",
+		"name" : "Oton"
+	}, {
+		"id" : "99245",
+		"name" : "Passi"
+	}, {
+		"id" : "99274",
+		"name" : "Pavia"
+	}, {
+		"id" : "99291",
+		"name" : "Pototan"
+	}, {
+		"id" : "99339",
+		"name" : "San Dionisio"
+	}, {
+		"id" : "99372",
+		"name" : "San Enrique"
+	}, {
+		"id" : "99405",
+		"name" : "San Joaquin"
+	}, {
+		"id" : "99490",
+		"name" : "San Miguel"
+	}, {
+		"id" : "99515",
+		"name" : "Santa Barbara"
+	}, {
+		"id" : "99579",
+		"name" : "Sara"
+	}, {
+		"id" : "99623",
+		"name" : "Tigbauan"
+	}, {
+		"id" : "99677",
+		"name" : "Tubungan"
+	}, {
+		"id" : "99726",
+		"name" : "Zarraga"
+	} ]
+}, {
+	"id" : "99751",
+	"name" : "Isabela",
+	"city" : [ {
+		"id" : "99752",
+		"name" : "Alicia"
+	}, {
+		"id" : "99793",
+		"name" : "Angadanan"
+	}, {
+		"id" : "99847",
+		"name" : "Aurora"
+	}, {
+		"id" : "99881",
+		"name" : "Benito Soliven"
+	}, {
+		"id" : "99911",
+		"name" : "Burgos"
+	}, {
+		"id" : "99927",
+		"name" : "Cabagan"
+	}, {
+		"id" : "99954",
+		"name" : "Cabatuan"
+	}, {
+		"id" : "99977",
+		"name" : "Cauayan"
+	}, {
+		"id" : "100043",
+		"name" : "Cordon"
+	}, {
+		"id" : "100070",
+		"name" : "Delfin Albano (Magsaysay)"
+	}, {
+		"id" : "100100",
+		"name" : "Dinapigue"
+	}, {
+		"id" : "100107",
+		"name" : "Divilican"
+	}, {
+		"id" : "100120",
+		"name" : "Echague"
+	}, {
+		"id" : "100185",
+		"name" : "Gamu"
+	}, {
+		"id" : "100202",
+		"name" : "Ilagan (Capital)"
+	}, {
+		"id" : "100294",
+		"name" : "Jones"
+	}, {
+		"id" : "100337",
+		"name" : "Luna"
+	}, {
+		"id" : "100357",
+		"name" : "Maconacon"
+	}, {
+		"id" : "100368",
+		"name" : "Mallig"
+	}, {
+		"id" : "100387",
+		"name" : "Naguilian"
+	}, {
+		"id" : "100413",
+		"name" : "Palanan"
+	}, {
+		"id" : "100431",
+		"name" : "Quezon"
+	}, {
+		"id" : "100447",
+		"name" : "Quirino"
+	}, {
+		"id" : "100478",
+		"name" : "Ramon"
+	}, {
+		"id" : "100498",
+		"name" : "Reina Mercedes"
+	}, {
+		"id" : "100520",
+		"name" : "Roxas"
+	}, {
+		"id" : "100547",
+		"name" : "San Agustin"
+	}, {
+		"id" : "100571",
+		"name" : "San Guillermo"
+	}, {
+		"id" : "100598",
+		"name" : "San Isidro"
+	}, {
+		"id" : "100612",
+		"name" : "San Manuel"
+	}, {
+		"id" : "100632",
+		"name" : "San Mariano"
+	}, {
+		"id" : "100668",
+		"name" : "San Mateo"
+	}, {
+		"id" : "100703",
+		"name" : "San Pablo"
+	}, {
+		"id" : "100721",
+		"name" : "Santa Maria"
+	}, {
+		"id" : "100742",
+		"name" : "Santiago City"
+	}, {
+		"id" : "100780",
+		"name" : "Santo Tomas"
+	}, {
+		"id" : "100808",
+		"name" : "Tumauini"
+	} ]
+}, {
+	"id" : "100860",
+	"name" : "Kalinga",
+	"city" : [ {
+		"id" : "100861",
+		"name" : "Balbalan"
+	}, {
+		"id" : "100863",
+		"name" : "Lubuagan"
+	}, {
+		"id" : "100865",
+		"name" : "Pasil"
+	}, {
+		"id" : "100867",
+		"name" : "Pinukpuk"
+	}, {
+		"id" : "100869",
+		"name" : "Rizal Liwan"
+	}, {
+		"id" : "100871",
+		"name" : "Tabuk"
+	}, {
+		"id" : "100916",
+		"name" : "Tanudan"
+	}, {
+		"id" : "100918",
+		"name" : "Tinglayan"
+	} ]
+}, {
+	"id" : "100920",
+	"name" : "La Union",
+	"city" : [ {
+		"id" : "100921",
+		"name" : "Agoo"
+	}, {
+		"id" : "100971",
+		"name" : "Aringay"
+	}, {
+		"id" : "100996",
+		"name" : "Bacnotan"
+	}, {
+		"id" : "101044",
+		"name" : "Bagulin"
+	}, {
+		"id" : "101055",
+		"name" : "Balaoan"
+	}, {
+		"id" : "101093",
+		"name" : "Bangar"
+	}, {
+		"id" : "101128",
+		"name" : "Bauang"
+	}, {
+		"id" : "101168",
+		"name" : "Burgos"
+	}, {
+		"id" : "101181",
+		"name" : "Caba"
+	}, {
+		"id" : "101199",
+		"name" : "Luna"
+	}, {
+		"id" : "101240",
+		"name" : "Naguilian"
+	}, {
+		"id" : "101280",
+		"name" : "Pugo"
+	}, {
+		"id" : "101295",
+		"name" : "Rosario"
+	}, {
+		"id" : "101330",
+		"name" : "San Fernando"
+	}, {
+		"id" : "101390",
+		"name" : "San Gabriel"
+	}, {
+		"id" : "101407",
+		"name" : "San Juan"
+	}, {
+		"id" : "101449",
+		"name" : "Santo Tomas"
+	}, {
+		"id" : "101475",
+		"name" : "Santol"
+	}, {
+		"id" : "101487",
+		"name" : "Sudipen"
+	}, {
+		"id" : "101505",
+		"name" : "Tubao"
+	} ]
+}, {
+	"id" : "101524",
+	"name" : "Laguna",
+	"city" : [ {
+		"id" : "101525",
+		"name" : "Alaminos"
+	}, {
+		"id" : "101544",
+		"name" : "Bay"
+	}, {
+		"id" : "101568",
+		"name" : "Binan"
+	}, {
+		"id" : "101581",
+		"name" : "Cabuyao"
+	}, {
+		"id" : "101584",
+		"name" : "Calamba"
+	}, {
+		"id" : "101638",
+		"name" : "Calauan"
+	}, {
+		"id" : "101659",
+		"name" : "Cavinti"
+	}, {
+		"id" : "101679",
+		"name" : "Famy"
+	}, {
+		"id" : "101700",
+		"name" : "Kalayaan"
+	}, {
+		"id" : "101704",
+		"name" : "Liliw"
+	}, {
+		"id" : "101738",
+		"name" : "Los Banos"
+	}, {
+		"id" : "101759",
+		"name" : "Luisiana"
+	}, {
+		"id" : "101784",
+		"name" : "Lumban"
+	}, {
+		"id" : "101801",
+		"name" : "Mabitac"
+	}, {
+		"id" : "101818",
+		"name" : "Magdalena"
+	}, {
+		"id" : "101846",
+		"name" : "Majayjay"
+	}, {
+		"id" : "101890",
+		"name" : "Nagcarlan"
+	}, {
+		"id" : "101943",
+		"name" : "Paete"
+	}, {
+		"id" : "101953",
+		"name" : "Pagsanjan"
+	}, {
+		"id" : "101980",
+		"name" : "Pakil"
+	}, {
+		"id" : "101994",
+		"name" : "Pangil"
+	}, {
+		"id" : "102003",
+		"name" : "Pila"
+	}, {
+		"id" : "102021",
+		"name" : "Rizal"
+	}, {
+		"id" : "102034",
+		"name" : "San Pablo City"
+	}, {
+		"id" : "102100",
+		"name" : "San Pedro"
+	}, {
+		"id" : "102124",
+		"name" : "Santa Cruz"
+	}, {
+		"id" : "102151",
+		"name" : "Santa Maria"
+	}, {
+		"id" : "102179",
+		"name" : "Santa Rosa"
+	}, {
+		"id" : "102181",
+		"name" : "Siniloan"
+	}, {
+		"id" : "102202",
+		"name" : "Victoria"
+	} ]
+}, {
+	"id" : "102212",
+	"name" : "Lanao Del Norte",
+	"city" : [ {
+		"id" : "102213",
+		"name" : "Bacolod"
+	}, {
+		"id" : "102221",
+		"name" : "Baroy"
+	}, {
+		"id" : "102241",
+		"name" : "Iligan"
+	}, {
+		"id" : "102278",
+		"name" : "Kapatagan"
+	}, {
+		"id" : "102293",
+		"name" : "Kauswagan"
+	}, {
+		"id" : "102301",
+		"name" : "Kolambugan"
+	}, {
+		"id" : "102325",
+		"name" : "Lala"
+	}, {
+		"id" : "102347",
+		"name" : "Linamon"
+	}, {
+		"id" : "102352",
+		"name" : "Maigo"
+	}, {
+		"id" : "102361",
+		"name" : "Tubod"
+	} ]
+}, {
+	"id" : "102391",
+	"name" : "Lanao Del Sur",
+	"city" : [ {
+		"id" : "102392",
+		"name" : "Wao"
+	} ]
+}, {
+	"id" : "102401",
+	"name" : "Leyte",
+	"city" : [ {
+		"id" : "102402",
+		"name" : "Abuyog"
+	}, {
+		"id" : "102417",
+		"name" : "Alangalang"
+	}, {
+		"id" : "102433",
+		"name" : "Albuera"
+	}, {
+		"id" : "102453",
+		"name" : "Babatngon"
+	}, {
+		"id" : "102468",
+		"name" : "Barugo"
+	}, {
+		"id" : "102489",
+		"name" : "Bato"
+	}, {
+		"id" : "102501",
+		"name" : "Baybay"
+	}, {
+		"id" : "102562",
+		"name" : "Burauen"
+	}, {
+		"id" : "102595",
+		"name" : "Capoocan"
+	}, {
+		"id" : "102603",
+		"name" : "Carigara"
+	}, {
+		"id" : "102627",
+		"name" : "Dagami"
+	}, {
+		"id" : "102656",
+		"name" : "Dulag"
+	}, {
+		"id" : "102662",
+		"name" : "Hilongos"
+	}, {
+		"id" : "102684",
+		"name" : "Hindang"
+	}, {
+		"id" : "102705",
+		"name" : "Inopacan"
+	}, {
+		"id" : "102713",
+		"name" : "Isabel"
+	}, {
+		"id" : "102733",
+		"name" : "Jaro"
+	}, {
+		"id" : "102739",
+		"name" : "Javier"
+	}, {
+		"id" : "102752",
+		"name" : "Julita"
+	}, {
+		"id" : "102758",
+		"name" : "Kananga"
+	}, {
+		"id" : "102775",
+		"name" : "Mahaplag"
+	}, {
+		"id" : "102792",
+		"name" : "Matag-Ob"
+	}, {
+		"id" : "102801",
+		"name" : "Matalom"
+	}, {
+		"id" : "102815",
+		"name" : "Mayorga"
+	}, {
+		"id" : "102824",
+		"name" : "Mcarthur"
+	}, {
+		"id" : "102835",
+		"name" : "Merida"
+	}, {
+		"id" : "102847",
+		"name" : "Naval"
+	}, {
+		"id" : "102870",
+		"name" : "Ormoc City Proper"
+	}, {
+		"id" : "102963",
+		"name" : "Palo"
+	}, {
+		"id" : "102979",
+		"name" : "Palompon"
+	}, {
+		"id" : "103006",
+		"name" : "Pastrana"
+	}, {
+		"id" : "103016",
+		"name" : "San Miguel"
+	}, {
+		"id" : "103023",
+		"name" : "Sta Fe"
+	}, {
+		"id" : "103036",
+		"name" : "Tabon Tabon"
+	}, {
+		"id" : "103042",
+		"name" : "Tacloban"
+	}, {
+		"id" : "103087",
+		"name" : "Tanauan"
+	}, {
+		"id" : "103104",
+		"name" : "Tolosa"
+	}, {
+		"id" : "103113",
+		"name" : "Tunga"
+	}, {
+		"id" : "103122",
+		"name" : "Villaba"
+	} ]
+}, {
+	"id" : "103138",
+	"name" : "Maguindanao",
+	"city" : [ {
+		"id" : "103139",
+		"name" : "Cotabato City"
+	}, {
+		"id" : "103172",
+		"name" : "Dinaig"
+	}, {
+		"id" : "103182",
+		"name" : "North Upi"
+	}, {
+		"id" : "103193",
+		"name" : "Parang"
+	}, {
+		"id" : "103202",
+		"name" : "Sultan Kudarat"
+	}, {
+		"id" : "103214",
+		"name" : "Sultan Mastora"
+	} ]
+}, {
+	"id" : "103216",
+	"name" : "Marinduque",
+	"city" : [ {
+		"id" : "103217",
+		"name" : "Boac"
+	}, {
+		"id" : "103282",
+		"name" : "Buenavista"
+	}, {
+		"id" : "103302",
+		"name" : "Gasan"
+	}, {
+		"id" : "103329",
+		"name" : "Mogpog"
+	}, {
+		"id" : "103380",
+		"name" : "Santa Cruz"
+	}, {
+		"id" : "103441",
+		"name" : "Torrijos"
+	} ]
+}, {
+	"id" : "103467",
+	"name" : "Masbate",
+	"city" : [ {
+		"id" : "103468",
+		"name" : "Aroroy"
+	}, {
+		"id" : "103510",
+		"name" : "Baleno"
+	}, {
+		"id" : "103535",
+		"name" : "Balud"
+	}, {
+		"id" : "103568",
+		"name" : "Batuan"
+	}, {
+		"id" : "103583",
+		"name" : "Cataingan"
+	}, {
+		"id" : "103620",
+		"name" : "Cawayan"
+	}, {
+		"id" : "103658",
+		"name" : "Claveria"
+	}, {
+		"id" : "103690",
+		"name" : "Dimasalang"
+	}, {
+		"id" : "103711",
+		"name" : "Esperanza"
+	}, {
+		"id" : "103732",
+		"name" : "Mandaon"
+	}, {
+		"id" : "103759",
+		"name" : "Masbate City"
+	}, {
+		"id" : "103818",
+		"name" : "Milagros"
+	}, {
+		"id" : "103852",
+		"name" : "Mobo"
+	}, {
+		"id" : "103886",
+		"name" : "Monreal"
+	}, {
+		"id" : "103897",
+		"name" : "Palanas"
+	}, {
+		"id" : "103921",
+		"name" : "Pio V. Corpuz"
+	}, {
+		"id" : "103940",
+		"name" : "Placer"
+	}, {
+		"id" : "103976",
+		"name" : "San Fernando"
+	}, {
+		"id" : "104002",
+		"name" : "San Jacinto"
+	}, {
+		"id" : "104024",
+		"name" : "San Pascual"
+	}, {
+		"id" : "104047",
+		"name" : "Uson"
+	} ]
+}, {
+	"id" : "104083",
+	"name" : "Metro Manila",
+	"city" : [ {
+		"id" : "104084",
+		"name" : "Caloocan City"
+	}, {
+		"id" : "104152",
+		"name" : "Las Pinas City"
+	}, {
+		"id" : "104166",
+		"name" : "Makati City"
+	}, {
+		"id" : "104325",
+		"name" : "Malabon City"
+	}, {
+		"id" : "104351",
+		"name" : "Mandaluyong City"
+	}, {
+		"id" : "104378",
+		"name" : "Manila City"
+	}, {
+		"id" : "104412",
+		"name" : "Marikina City"
+	}, {
+		"id" : "104437",
+		"name" : "Muntinlupa City"
+	}, {
+		"id" : "104448",
+		"name" : "Navotas City"
+	}, {
+		"id" : "104465",
+		"name" : "Novaliches City"
+	}, {
+		"id" : "104678",
+		"name" : "Paranaque City"
+	}, {
+		"id" : "104765",
+		"name" : "Pasay City"
+	}, {
+		"id" : "104974",
+		"name" : "Pasig City"
+	}, {
+		"id" : "105012",
+		"name" : "Pateros"
+	}, {
+		"id" : "105023",
+		"name" : "Quezon City"
+	}, {
+		"id" : "105240",
+		"name" : "San Juan City"
+	}, {
+		"id" : "105262",
+		"name" : "Taguig City"
+	}, {
+		"id" : "105278",
+		"name" : "Valenzuela City"
+	} ]
+}, {
+	"id" : "105305",
+	"name" : "Misamis Occidental",
+	"city" : [ {
+		"id" : "105306",
+		"name" : "Aloran"
+	}, {
+		"id" : "105346",
+		"name" : "Baliangao"
+	}, {
+		"id" : "105348",
+		"name" : "Bonifacio"
+	}, {
+		"id" : "105377",
+		"name" : "Calamba"
+	}, {
+		"id" : "105394",
+		"name" : "Clarin"
+	}, {
+		"id" : "105407",
+		"name" : "Jimenez"
+	}, {
+		"id" : "105420",
+		"name" : "Lopez Jaena"
+	}, {
+		"id" : "105434",
+		"name" : "Oroquieta City"
+	}, {
+		"id" : "105468",
+		"name" : "Ozamis City"
+	}, {
+		"id" : "105514",
+		"name" : "Panaon"
+	}, {
+		"id" : "105523",
+		"name" : "Plaridel"
+	}, {
+		"id" : "105547",
+		"name" : "Sapang Dalaga"
+	}, {
+		"id" : "105556",
+		"name" : "Sinacaban"
+	}, {
+		"id" : "105570",
+		"name" : "Tangub City"
+	}, {
+		"id" : "105602",
+		"name" : "Tudela"
+	} ]
+}, {
+	"id" : "105617",
+	"name" : "Misamis Oriental",
+	"city" : [ {
+		"id" : "105618",
+		"name" : "Alubijid"
+	}, {
+		"id" : "105629",
+		"name" : "Balingasag"
+	}, {
+		"id" : "105641",
+		"name" : "Balingoan"
+	}, {
+		"id" : "105646",
+		"name" : "Binuangan"
+	}, {
+		"id" : "105651",
+		"name" : "Cagayan De Oro City"
+	}, {
+		"id" : "105774",
+		"name" : "El Salvador"
+	}, {
+		"id" : "105797",
+		"name" : "Gingoog City"
+	}, {
+		"id" : "105847",
+		"name" : "Gitagum"
+	}, {
+		"id" : "105856",
+		"name" : "Initao"
+	}, {
+		"id" : "105866",
+		"name" : "Jasaan"
+	}, {
+		"id" : "105881",
+		"name" : "Kinoguitan"
+	}, {
+		"id" : "105888",
+		"name" : "Lagonglong"
+	}, {
+		"id" : "105895",
+		"name" : "Laguindingan"
+	}, {
+		"id" : "105905",
+		"name" : "Libertad"
+	}, {
+		"id" : "105911",
+		"name" : "Luabijid"
+	}, {
+		"id" : "105913",
+		"name" : "Lugait"
+	}, {
+		"id" : "105923",
+		"name" : "Magsaysay"
+	}, {
+		"id" : "105928",
+		"name" : "Manticao"
+	}, {
+		"id" : "105939",
+		"name" : "Medina"
+	}, {
+		"id" : "105950",
+		"name" : "Naawan"
+	}, {
+		"id" : "105961",
+		"name" : "Opol"
+	}, {
+		"id" : "105988",
+		"name" : "Salay"
+	}, {
+		"id" : "105995",
+		"name" : "Sugbongcogon"
+	}, {
+		"id" : "106000",
+		"name" : "Tagoloan"
+	}, {
+		"id" : "106020",
+		"name" : "Talisayan"
+	}, {
+		"id" : "106031",
+		"name" : "Villanueva"
+	} ]
+}, {
+	"id" : "106041",
+	"name" : "Mountain Province",
+	"city" : [ {
+		"id" : "106042",
+		"name" : "Barlig"
+	}, {
+		"id" : "106044",
+		"name" : "Bauko"
+	}, {
+		"id" : "106046",
+		"name" : "Besao"
+	}, {
+		"id" : "106048",
+		"name" : "Bontoc"
+	}, {
+		"id" : "106050",
+		"name" : "Natonin"
+	}, {
+		"id" : "106052",
+		"name" : "Paracelis"
+	}, {
+		"id" : "106054",
+		"name" : "Sabangan"
+	}, {
+		"id" : "106056",
+		"name" : "Sagada"
+	}, {
+		"id" : "106058",
+		"name" : "Sandanga"
+	}, {
+		"id" : "106060",
+		"name" : "Tadian"
+	} ]
+}, {
+	"id" : "106062",
+	"name" : "Negros Occidental",
+	"city" : [ {
+		"id" : "106063",
+		"name" : "Bacolod City"
+	}, {
+		"id" : "106153",
+		"name" : "Bago City"
+	}, {
+		"id" : "106184",
+		"name" : "Binalbagan"
+	}, {
+		"id" : "106204",
+		"name" : "Cadiz City"
+	}, {
+		"id" : "106227",
+		"name" : "Calatrava"
+	}, {
+		"id" : "106299",
+		"name" : "Candoni"
+	}, {
+		"id" : "106309",
+		"name" : "Cauayan"
+	}, {
+		"id" : "106338",
+		"name" : "Eb Magalona (Saravia)"
+	}, {
+		"id" : "106364",
+		"name" : "Escalante"
+	}, {
+		"id" : "106387",
+		"name" : "Himamaylan"
+	}, {
+		"id" : "106426",
+		"name" : "Hinigaran"
+	}, {
+		"id" : "106452",
+		"name" : "Hinoba-An"
+	}, {
+		"id" : "106466",
+		"name" : "Ilog"
+	}, {
+		"id" : "106504",
+		"name" : "Isabela"
+	}, {
+		"id" : "106536",
+		"name" : "Kabankalan"
+	}, {
+		"id" : "106596",
+		"name" : "La Carlota"
+	}, {
+		"id" : "106647",
+		"name" : "La Castellana"
+	}, {
+		"id" : "106662",
+		"name" : "Manapla"
+	}, {
+		"id" : "106675",
+		"name" : "Moises Padilla (Magallon)"
+	}, {
+		"id" : "106691",
+		"name" : "Murcia"
+	}, {
+		"id" : "106714",
+		"name" : "Pontevedra"
+	}, {
+		"id" : "106744",
+		"name" : "Pulupandan"
+	}, {
+		"id" : "106765",
+		"name" : "Sagay City"
+	}, {
+		"id" : "106793",
+		"name" : "Salvador Benedicto"
+	}, {
+		"id" : "106802",
+		"name" : "San Carlos City"
+	}, {
+		"id" : "106823",
+		"name" : "San Enrique"
+	}, {
+		"id" : "106855",
+		"name" : "Silay"
+	}, {
+		"id" : "106875",
+		"name" : "Sipalay"
+	}, {
+		"id" : "106893",
+		"name" : "Talisay"
+	}, {
+		"id" : "106930",
+		"name" : "Toboso"
+	}, {
+		"id" : "106968",
+		"name" : "Valladolid"
+	}, {
+		"id" : "106993",
+		"name" : "Victorias City"
+	} ]
+}, {
+	"id" : "107046",
+	"name" : "Negros Oriental",
+	"city" : [ {
+		"id" : "107047",
+		"name" : "Amlan"
+	}, {
+		"id" : "107053",
+		"name" : "Ayungon"
+	}, {
+		"id" : "107064",
+		"name" : "Bacong"
+	}, {
+		"id" : "107079",
+		"name" : "Bais"
+	}, {
+		"id" : "107125",
+		"name" : "Basay"
+	}, {
+		"id" : "107135",
+		"name" : "Bayawan"
+	}, {
+		"id" : "107150",
+		"name" : "Bindoy"
+	}, {
+		"id" : "107165",
+		"name" : "Canlaon City"
+	}, {
+		"id" : "107189",
+		"name" : "Dauin"
+	}, {
+		"id" : "107197",
+		"name" : "Dumaguete"
+	}, {
+		"id" : "107221",
+		"name" : "Guihulngan"
+	}, {
+		"id" : "107248",
+		"name" : "Jimalalud"
+	}, {
+		"id" : "107277",
+		"name" : "La Libertad"
+	}, {
+		"id" : "107307",
+		"name" : "Mabinay"
+	}, {
+		"id" : "107320",
+		"name" : "Manjuyod"
+	}, {
+		"id" : "107341",
+		"name" : "Pamplona"
+	}, {
+		"id" : "107350",
+		"name" : "San Jose"
+	}, {
+		"id" : "107362",
+		"name" : "Santa Catalina"
+	}, {
+		"id" : "107381",
+		"name" : "Siaton"
+	}, {
+		"id" : "107405",
+		"name" : "Sibulan"
+	}, {
+		"id" : "107418",
+		"name" : "Tanjay"
+	}, {
+		"id" : "107475",
+		"name" : "Tayasan"
+	}, {
+		"id" : "107504",
+		"name" : "Valencia Luzurriaga"
+	}, {
+		"id" : "107514",
+		"name" : "Vallehermoso"
+	}, {
+		"id" : "107555",
+		"name" : "Zamboanguita"
+	} ]
+}, {
+	"id" : "107566",
+	"name" : "North Cotabato",
+	"city" : [ {
+		"id" : "107567",
+		"name" : "Aleosan"
+	}, {
+		"id" : "107573",
+		"name" : "Antipas"
+	}, {
+		"id" : "107579",
+		"name" : "Arakan"
+	}, {
+		"id" : "107584",
+		"name" : "Banisilan"
+	}, {
+		"id" : "107604",
+		"name" : "Kabacan"
+	}, {
+		"id" : "107612",
+		"name" : "Kidapawan"
+	}, {
+		"id" : "107648",
+		"name" : "Libungan"
+	}, {
+		"id" : "107654",
+		"name" : "Makilala"
+	}, {
+		"id" : "107690",
+		"name" : "Matalam"
+	}, {
+		"id" : "107696",
+		"name" : "Midsayap"
+	}, {
+		"id" : "107738",
+		"name" : "Mlang"
+	}, {
+		"id" : "107782",
+		"name" : "Pigcawayan"
+	}, {
+		"id" : "107792",
+		"name" : "Pikit"
+	}, {
+		"id" : "107796",
+		"name" : "President Roxas"
+	}, {
+		"id" : "107803",
+		"name" : "Tulunan"
+	} ]
+}, {
+	"id" : "107836",
+	"name" : "Northern Samar",
+	"city" : [ {
+		"id" : "107837",
+		"name" : "Allen"
+	}, {
+		"id" : "107858",
+		"name" : "Biri"
+	}, {
+		"id" : "107867",
+		"name" : "Bobon"
+	}, {
+		"id" : "107886",
+		"name" : "Capul"
+	}, {
+		"id" : "107899",
+		"name" : "Catarman"
+	}, {
+		"id" : "107957",
+		"name" : "Catubig"
+	}, {
+		"id" : "108005",
+		"name" : "Gamay"
+	}, {
+		"id" : "108032",
+		"name" : "Laoang"
+	}, {
+		"id" : "108089",
+		"name" : "Lapinig"
+	}, {
+		"id" : "108105",
+		"name" : "Las Navas"
+	}, {
+		"id" : "108159",
+		"name" : "Lavezares"
+	}, {
+		"id" : "108187",
+		"name" : "Lope De Vega"
+	}, {
+		"id" : "108210",
+		"name" : "Mapanas"
+	}, {
+		"id" : "108224",
+		"name" : "Mondragon"
+	}, {
+		"id" : "108249",
+		"name" : "Palapag"
+	}, {
+		"id" : "108282",
+		"name" : "Pambujan"
+	}, {
+		"id" : "108309",
+		"name" : "Rosario"
+	}, {
+		"id" : "108321",
+		"name" : "San Antonio"
+	}, {
+		"id" : "108332",
+		"name" : "San Isidro"
+	}, {
+		"id" : "108347",
+		"name" : "San Jose"
+	}, {
+		"id" : "108364",
+		"name" : "San Roque"
+	}, {
+		"id" : "108381",
+		"name" : "San Vicente"
+	}, {
+		"id" : "108390",
+		"name" : "Silvino Lobos"
+	}, {
+		"id" : "108417",
+		"name" : "Victoria"
+	} ]
+}, {
+	"id" : "108434",
+	"name" : "Nueva Ecija",
+	"city" : [ {
+		"id" : "108435",
+		"name" : "Aliaga"
+	}, {
+		"id" : "108462",
+		"name" : "Bongabon"
+	}, {
+		"id" : "108492",
+		"name" : "Cabanatuan City"
+	}, {
+		"id" : "108584",
+		"name" : "Cabiao"
+	}, {
+		"id" : "108609",
+		"name" : "Carranglan"
+	}, {
+		"id" : "108629",
+		"name" : "Cuyapo"
+	}, {
+		"id" : "108683",
+		"name" : "Gabaldon"
+	}, {
+		"id" : "108701",
+		"name" : "Gapan"
+	}, {
+		"id" : "108726",
+		"name" : "General Mamerto Natividad"
+	}, {
+		"id" : "108747",
+		"name" : "General Tinio"
+	}, {
+		"id" : "108760",
+		"name" : "Guimba"
+	}, {
+		"id" : "108826",
+		"name" : "Jaen"
+	}, {
+		"id" : "108858",
+		"name" : "Laur"
+	}, {
+		"id" : "108876",
+		"name" : "Licab"
+	}, {
+		"id" : "108888",
+		"name" : "Llanera"
+	}, {
+		"id" : "108911",
+		"name" : "Lupao"
+	}, {
+		"id" : "108936",
+		"name" : "Munoz"
+	}, {
+		"id" : "108973",
+		"name" : "Nampicuan"
+	}, {
+		"id" : "108996",
+		"name" : "Palayan City"
+	}, {
+		"id" : "109032",
+		"name" : "Pantabangan"
+	}, {
+		"id" : "109047",
+		"name" : "Penaranda"
+	}, {
+		"id" : "109058",
+		"name" : "Quezon"
+	}, {
+		"id" : "109077",
+		"name" : "Rizal"
+	}, {
+		"id" : "109105",
+		"name" : "San Antonio"
+	}, {
+		"id" : "109122",
+		"name" : "San Isidro"
+	}, {
+		"id" : "109132",
+		"name" : "San Jose City"
+	}, {
+		"id" : "109171",
+		"name" : "San Leonardo"
+	}, {
+		"id" : "109187",
+		"name" : "Santa Rosa"
+	}, {
+		"id" : "109222",
+		"name" : "Santo Domingo"
+	}, {
+		"id" : "109247",
+		"name" : "Talavera"
+	}, {
+		"id" : "109303",
+		"name" : "Talugtug"
+	}, {
+		"id" : "109332",
+		"name" : "Zaragoza"
+	} ]
+}, {
+	"id" : "109352",
+	"name" : "Nueva Vizcaya",
+	"city" : [ {
+		"id" : "109353",
+		"name" : "Alfonso Castaneda"
+	}, {
+		"id" : "109360",
+		"name" : "Ambaguio"
+	}, {
+		"id" : "109369",
+		"name" : "Aritao"
+	}, {
+		"id" : "109393",
+		"name" : "Bagabag"
+	}, {
+		"id" : "109413",
+		"name" : "Bambang"
+	}, {
+		"id" : "109441",
+		"name" : "Bayombong (Capital)"
+	}, {
+		"id" : "109465",
+		"name" : "Diadi"
+	}, {
+		"id" : "109485",
+		"name" : "Dupax Del Norte"
+	}, {
+		"id" : "109502",
+		"name" : "Dupax Del Sur"
+	}, {
+		"id" : "109523",
+		"name" : "Kasibu"
+	}, {
+		"id" : "109553",
+		"name" : "Kayapa"
+	}, {
+		"id" : "109584",
+		"name" : "Lamut Ifugao"
+	}, {
+		"id" : "109594",
+		"name" : "Quezon"
+	}, {
+		"id" : "109607",
+		"name" : "Santa Fe"
+	}, {
+		"id" : "109624",
+		"name" : "Solano"
+	}, {
+		"id" : "109647",
+		"name" : "Villaverde"
+	} ]
+}, {
+	"id" : "109657",
+	"name" : "Occidental Mindoro",
+	"city" : [ {
+		"id" : "109658",
+		"name" : "Abra De Ilog"
+	}, {
+		"id" : "109668",
+		"name" : "Calintaan"
+	}, {
+		"id" : "109680",
+		"name" : "Looc"
+	}, {
+		"id" : "109690",
+		"name" : "Lubang"
+	}, {
+		"id" : "109707",
+		"name" : "Magsaysay"
+	}, {
+		"id" : "109723",
+		"name" : "Mamburao"
+	}, {
+		"id" : "109737",
+		"name" : "Paluan"
+	}, {
+		"id" : "109750",
+		"name" : "Rizal"
+	}, {
+		"id" : "109767",
+		"name" : "Sablayan"
+	}, {
+		"id" : "109790",
+		"name" : "San Jose"
+	}, {
+		"id" : "109831",
+		"name" : "Santa Cruz"
+	} ]
+}, {
+	"id" : "109843",
+	"name" : "Oriental Mindoro",
+	"city" : [ {
+		"id" : "109844",
+		"name" : "Baco"
+	}, {
+		"id" : "109908",
+		"name" : "Bansud"
+	}, {
+		"id" : "109922",
+		"name" : "Bongabong"
+	}, {
+		"id" : "109968",
+		"name" : "Bulalacao"
+	}, {
+		"id" : "109983",
+		"name" : "Calapan"
+	}, {
+		"id" : "110058",
+		"name" : "Gloria"
+	}, {
+		"id" : "110089",
+		"name" : "Mansalay"
+	}, {
+		"id" : "110107",
+		"name" : "Naujan"
+	}, {
+		"id" : "110198",
+		"name" : "Pinamalayan"
+	}, {
+		"id" : "110236",
+		"name" : "Pola"
+	}, {
+		"id" : "110268",
+		"name" : "Puerto Galera"
+	}, {
+		"id" : "110285",
+		"name" : "Roxas"
+	}, {
+		"id" : "110307",
+		"name" : "San Teodoro"
+	}, {
+		"id" : "110318",
+		"name" : "Socorro"
+	}, {
+		"id" : "110372",
+		"name" : "Victoria"
+	} ]
+}, {
+	"id" : "110406",
+	"name" : "Palawan",
+	"city" : [ {
+		"id" : "110407",
+		"name" : "Brookes Point"
+	}, {
+		"id" : "110422",
+		"name" : "Busuanga"
+	}, {
+		"id" : "110430",
+		"name" : "Coron"
+	}, {
+		"id" : "110447",
+		"name" : "El Nido Bacut"
+	}, {
+		"id" : "110453",
+		"name" : "Narra"
+	}, {
+		"id" : "110467",
+		"name" : "Puerto Princesa"
+	}, {
+		"id" : "110509",
+		"name" : "Roxas"
+	}, {
+		"id" : "110518",
+		"name" : "Taytay"
+	} ]
+}, {
+	"id" : "110520",
+	"name" : "Pampanga",
+	"city" : [ {
+		"id" : "110521",
+		"name" : "Angeles City"
+	}, {
+		"id" : "110556",
+		"name" : "Apalit"
+	}, {
+		"id" : "110569",
+		"name" : "Arayat"
+	}, {
+		"id" : "110600",
+		"name" : "Bacolor"
+	}, {
+		"id" : "110622",
+		"name" : "Candaba"
+	}, {
+		"id" : "110656",
+		"name" : "Floridablanca"
+	}, {
+		"id" : "110690",
+		"name" : "Guagua"
+	}, {
+		"id" : "110722",
+		"name" : "Lubao"
+	}, {
+		"id" : "110767",
+		"name" : "Mabalacat"
+	}, {
+		"id" : "110795",
+		"name" : "Macabebe"
+	}, {
+		"id" : "110821",
+		"name" : "Magalang"
+	}, {
+		"id" : "110849",
+		"name" : "Masantol"
+	}, {
+		"id" : "110876",
+		"name" : "Mexico"
+	}, {
+		"id" : "110919",
+		"name" : "Minalin"
+	}, {
+		"id" : "110935",
+		"name" : "Porac"
+	}, {
+		"id" : "110965",
+		"name" : "San Fernando"
+	}, {
+		"id" : "111002",
+		"name" : "San Luis"
+	}, {
+		"id" : "111020",
+		"name" : "San Simon"
+	}, {
+		"id" : "111035",
+		"name" : "Santa Ana"
+	}, {
+		"id" : "111050",
+		"name" : "Santa Rita"
+	}, {
+		"id" : "111060",
+		"name" : "Santo Tomas"
+	}, {
+		"id" : "111068",
+		"name" : "Sasmuan"
+	} ]
+}, {
+	"id" : "111081",
+	"name" : "Pangasinan",
+	"city" : [ {
+		"id" : "111082",
+		"name" : "Agno"
+	}, {
+		"id" : "111100",
+		"name" : "Aguilar"
+	}, {
+		"id" : "111116",
+		"name" : "Alaminos"
+	}, {
+		"id" : "111157",
+		"name" : "Alcala"
+	}, {
+		"id" : "111189",
+		"name" : "Anda"
+	}, {
+		"id" : "111208",
+		"name" : "Asingan"
+	}, {
+		"id" : "111232",
+		"name" : "Balungao"
+	}, {
+		"id" : "111253",
+		"name" : "Bani"
+	}, {
+		"id" : "111283",
+		"name" : "Basista"
+	}, {
+		"id" : "111297",
+		"name" : "Bautista"
+	}, {
+		"id" : "111317",
+		"name" : "Bayambang"
+	}, {
+		"id" : "111395",
+		"name" : "Binalonan"
+	}, {
+		"id" : "111422",
+		"name" : "Binmaley"
+	}, {
+		"id" : "111456",
+		"name" : "Bolinao"
+	}, {
+		"id" : "111487",
+		"name" : "Bugallon"
+	}, {
+		"id" : "111512",
+		"name" : "Burgos"
+	}, {
+		"id" : "111527",
+		"name" : "Calasiao"
+	}, {
+		"id" : "111552",
+		"name" : "Dagupan City"
+	}, {
+		"id" : "111584",
+		"name" : "Dasol"
+	}, {
+		"id" : "111603",
+		"name" : "Infanta"
+	}, {
+		"id" : "111617",
+		"name" : "Labrador"
+	}, {
+		"id" : "111628",
+		"name" : "Laoac"
+	}, {
+		"id" : "111651",
+		"name" : "Lingayen (Capital)"
+	}, {
+		"id" : "111685",
+		"name" : "Mabini"
+	}, {
+		"id" : "111702",
+		"name" : "Malasiqui"
+	}, {
+		"id" : "111776",
+		"name" : "Manaoag"
+	}, {
+		"id" : "111803",
+		"name" : "Mangaldan"
+	}, {
+		"id" : "111834",
+		"name" : "Mangatarem"
+	}, {
+		"id" : "111921",
+		"name" : "Mapandan"
+	}, {
+		"id" : "111937",
+		"name" : "Natividad"
+	}, {
+		"id" : "111956",
+		"name" : "Pozzorubio"
+	}, {
+		"id" : "111991",
+		"name" : "Rosales"
+	}, {
+		"id" : "112030",
+		"name" : "San Carlos City"
+	}, {
+		"id" : "112117",
+		"name" : "San Fabian"
+	}, {
+		"id" : "112137",
+		"name" : "San Jacinto"
+	}, {
+		"id" : "112157",
+		"name" : "San Manuel"
+	}, {
+		"id" : "112173",
+		"name" : "San Nicolas"
+	}, {
+		"id" : "112207",
+		"name" : "San Quintin"
+	}, {
+		"id" : "112231",
+		"name" : "Santa Barbara"
+	}, {
+		"id" : "112261",
+		"name" : "Santa Maria"
+	}, {
+		"id" : "112285",
+		"name" : "Santo Tomas"
+	}, {
+		"id" : "112296",
+		"name" : "Sison (28)"
+	}, {
+		"id" : "112327",
+		"name" : "Sual"
+	}, {
+		"id" : "112347",
+		"name" : "Tayug"
+	}, {
+		"id" : "112373",
+		"name" : "Umingan"
+	}, {
+		"id" : "112432",
+		"name" : "Urbiztondo"
+	}, {
+		"id" : "112454",
+		"name" : "Urdaneta"
+	}, {
+		"id" : "112489",
+		"name" : "Villasis"
+	} ]
+}, {
+	"id" : "112513",
+	"name" : "Quezon",
+	"city" : [ {
+		"id" : "112514",
+		"name" : "Agdangan"
+	}, {
+		"id" : "112527",
+		"name" : "Alabat"
+	}, {
+		"id" : "112547",
+		"name" : "Atimonan"
+	}, {
+		"id" : "112591",
+		"name" : "Buenavista"
+	}, {
+		"id" : "112629",
+		"name" : "Burdeos"
+	}, {
+		"id" : "112644",
+		"name" : "Calauag"
+	}, {
+		"id" : "112728",
+		"name" : "Candelaria"
+	}, {
+		"id" : "112753",
+		"name" : "Catanauan"
+	}, {
+		"id" : "112800",
+		"name" : "Dolores"
+	}, {
+		"id" : "112818",
+		"name" : "General Luna"
+	}, {
+		"id" : "112847",
+		"name" : "General Nakar"
+	}, {
+		"id" : "112867",
+		"name" : "Guinayangan"
+	}, {
+		"id" : "112939",
+		"name" : "Gumaca"
+	}, {
+		"id" : "113002",
+		"name" : "Infanta"
+	}, {
+		"id" : "113038",
+		"name" : "Jomalig"
+	}, {
+		"id" : "113044",
+		"name" : "Lopez"
+	}, {
+		"id" : "113138",
+		"name" : "Lucban"
+	}, {
+		"id" : "113172",
+		"name" : "Lucena City"
+	}, {
+		"id" : "113207",
+		"name" : "Macalelon"
+	}, {
+		"id" : "113240",
+		"name" : "Mauban"
+	}, {
+		"id" : "113291",
+		"name" : "Mulanay"
+	}, {
+		"id" : "113320",
+		"name" : "Padre Burgos"
+	}, {
+		"id" : "113343",
+		"name" : "Pagbilao"
+	}, {
+		"id" : "113373",
+		"name" : "Panukulan"
+	}, {
+		"id" : "113386",
+		"name" : "Patnanungan"
+	}, {
+		"id" : "113393",
+		"name" : "Perez"
+	}, {
+		"id" : "113408",
+		"name" : "Pitogo"
+	}, {
+		"id" : "113450",
+		"name" : "Plaridel"
+	}, {
+		"id" : "113464",
+		"name" : "Polilio"
+	}, {
+		"id" : "113485",
+		"name" : "Quezon"
+	}, {
+		"id" : "113510",
+		"name" : "Real"
+	}, {
+		"id" : "113528",
+		"name" : "Sampaloc"
+	}, {
+		"id" : "113544",
+		"name" : "San Andes"
+	}, {
+		"id" : "113552",
+		"name" : "San Antonio"
+	}, {
+		"id" : "113573",
+		"name" : "San Francisco (Aurora)"
+	}, {
+		"id" : "113599",
+		"name" : "San Narciso"
+	}, {
+		"id" : "113624",
+		"name" : "Sariaya"
+	}, {
+		"id" : "113667",
+		"name" : "Tagkawayan"
+	}, {
+		"id" : "113722",
+		"name" : "Tayabas"
+	}, {
+		"id" : "113776",
+		"name" : "Tiaong"
+	}, {
+		"id" : "113817",
+		"name" : "Unisan"
+	} ]
+}, {
+	"id" : "113851",
+	"name" : "Quirino",
+	"city" : [ {
+		"id" : "113852",
+		"name" : "Aglipay"
+	}, {
+		"id" : "113878",
+		"name" : "Cabarroguis"
+	}, {
+		"id" : "113896",
+		"name" : "Diffun"
+	}, {
+		"id" : "113930",
+		"name" : "Maddela"
+	}, {
+		"id" : "113963",
+		"name" : "Nagtipunan"
+	}, {
+		"id" : "113980",
+		"name" : "Saguday"
+	} ]
+}, {
+	"id" : "113990",
+	"name" : "Rizal",
+	"city" : [ {
+		"id" : "113991",
+		"name" : "Angono"
+	}, {
+		"id" : "114003",
+		"name" : "Antipolo"
+	}, {
+		"id" : "114021",
+		"name" : "Baras"
+	}, {
+		"id" : "114034",
+		"name" : "Binangonan"
+	}, {
+		"id" : "114077",
+		"name" : "Cainta"
+	}, {
+		"id" : "114087",
+		"name" : "Cardona"
+	}, {
+		"id" : "114108",
+		"name" : "Jala-Jala"
+	}, {
+		"id" : "114121",
+		"name" : "Morong"
+	}, {
+		"id" : "114133",
+		"name" : "Pililla"
+	}, {
+		"id" : "114144",
+		"name" : "Rodriguez (Montalban)"
+	}, {
+		"id" : "114165",
+		"name" : "San Mateo"
+	}, {
+		"id" : "114184",
+		"name" : "Tanay"
+	}, {
+		"id" : "114207",
+		"name" : "Taytay"
+	}, {
+		"id" : "114217",
+		"name" : "Teresa"
+	} ]
+}, {
+	"id" : "114227",
+	"name" : "Romblon",
+	"city" : [ {
+		"id" : "114228",
+		"name" : "Alcantara"
+	}, {
+		"id" : "114241",
+		"name" : "Banton"
+	}, {
+		"id" : "114259",
+		"name" : "Cajidiocan"
+	}, {
+		"id" : "114274",
+		"name" : "Calatrava"
+	}, {
+		"id" : "114282",
+		"name" : "Concepcion"
+	}, {
+		"id" : "114292",
+		"name" : "Corcuera"
+	}, {
+		"id" : "114308",
+		"name" : "Ferrol"
+	}, {
+		"id" : "114315",
+		"name" : "Looc"
+	}, {
+		"id" : "114330",
+		"name" : "Magdiwang"
+	}, {
+		"id" : "114340",
+		"name" : "Odiongan"
+	}, {
+		"id" : "114369",
+		"name" : "Romblon"
+	}, {
+		"id" : "114401",
+		"name" : "San Agustin"
+	}, {
+		"id" : "114417",
+		"name" : "San Andres"
+	}, {
+		"id" : "114432",
+		"name" : "San Fernando"
+	}, {
+		"id" : "114445",
+		"name" : "San Jose"
+	}, {
+		"id" : "114451",
+		"name" : "Santa Fe"
+	}, {
+		"id" : "114463",
+		"name" : "Santa Maria (Imelda)"
+	} ]
+}, {
+	"id" : "114470",
+	"name" : "Sarangani",
+	"city" : [ {
+		"id" : "114471",
+		"name" : "Alabel"
+	}, {
+		"id" : "114476",
+		"name" : "Glan"
+	}, {
+		"id" : "114493",
+		"name" : "Kiamba"
+	}, {
+		"id" : "114514",
+		"name" : "Maasim"
+	}, {
+		"id" : "114528",
+		"name" : "Maitum"
+	}, {
+		"id" : "114540",
+		"name" : "Malapatan"
+	}, {
+		"id" : "114542",
+		"name" : "Malungon"
+	} ]
+}, {
+	"id" : "114568",
+	"name" : "Sibugay Province",
+	"city" : [ {
+		"id" : "114569",
+		"name" : "Alicia"
+	}, {
+		"id" : "114576",
+		"name" : "Buug"
+	}, {
+		"id" : "114590",
+		"name" : "Diplahan"
+	}, {
+		"id" : "114598",
+		"name" : "Imelda"
+	}, {
+		"id" : "114609",
+		"name" : "Ipil"
+	}, {
+		"id" : "114627",
+		"name" : "Kabasalan"
+	}, {
+		"id" : "114644",
+		"name" : "Malangas"
+	}, {
+		"id" : "114656",
+		"name" : "Naga"
+	}, {
+		"id" : "114669",
+		"name" : "Poblacion Surabay R.T. Lim"
+	}, {
+		"id" : "114680",
+		"name" : "Poblacion Tungawan"
+	}, {
+		"id" : "114686",
+		"name" : "Siay"
+	}, {
+		"id" : "114699",
+		"name" : "Titay"
+	} ]
+}, {
+	"id" : "114702",
+	"name" : "Siquijor",
+	"city" : [ {
+		"id" : "114703",
+		"name" : "Enrique Villanueva"
+	}, {
+		"id" : "114718",
+		"name" : "Larena"
+	}, {
+		"id" : "114742",
+		"name" : "Lazi"
+	}, {
+		"id" : "114761",
+		"name" : "Maria"
+	}, {
+		"id" : "114784",
+		"name" : "San Juan"
+	}, {
+		"id" : "114800",
+		"name" : "Siquijor"
+	} ]
+}, {
+	"id" : "114843",
+	"name" : "Sorsogon",
+	"city" : [ {
+		"id" : "114844",
+		"name" : "Bacon"
+	}, {
+		"id" : "114882",
+		"name" : "Barcelona"
+	}, {
+		"id" : "114908",
+		"name" : "Bulan"
+	}, {
+		"id" : "114972",
+		"name" : "Bulusan"
+	}, {
+		"id" : "114997",
+		"name" : "Casiguran"
+	}, {
+		"id" : "115023",
+		"name" : "Castlla"
+	}, {
+		"id" : "115058",
+		"name" : "Donsol"
+	}, {
+		"id" : "115110",
+		"name" : "Gubat"
+	}, {
+		"id" : "115155",
+		"name" : "Irosin"
+	}, {
+		"id" : "115184",
+		"name" : "Juban"
+	}, {
+		"id" : "115210",
+		"name" : "Magallanes"
+	}, {
+		"id" : "115244",
+		"name" : "Matnog"
+	}, {
+		"id" : "115285",
+		"name" : "Pilar"
+	}, {
+		"id" : "115324",
+		"name" : "Sorsogon"
+	} ]
+}, {
+	"id" : "115358",
+	"name" : "South Cotabato",
+	"city" : [ {
+		"id" : "115359",
+		"name" : "Banga"
+	}, {
+		"id" : "115380",
+		"name" : "Bawing"
+	}, {
+		"id" : "115389",
+		"name" : "General Santos City"
+	}, {
+		"id" : "115654",
+		"name" : "Koronadal"
+	}, {
+		"id" : "115678",
+		"name" : "Lake Sebu"
+	}, {
+		"id" : "115680",
+		"name" : "Norala"
+	}, {
+		"id" : "115683",
+		"name" : "Polomolok"
+	}, {
+		"id" : "115737",
+		"name" : "Santo Nino"
+	}, {
+		"id" : "115750",
+		"name" : "Surallah"
+	}, {
+		"id" : "115770",
+		"name" : "Tampakan"
+	}, {
+		"id" : "115772",
+		"name" : "Tantangan"
+	}, {
+		"id" : "115787",
+		"name" : "Tboli"
+	}, {
+		"id" : "115789",
+		"name" : "Tupi"
+	} ]
+}, {
+	"id" : "115798",
+	"name" : "Southern Leyte",
+	"city" : [ {
+		"id" : "115799",
+		"name" : "Anahawan"
+	}, {
+		"id" : "115809",
+		"name" : "Bontoc"
+	}, {
+		"id" : "115820",
+		"name" : "Cabalian"
+	}, {
+		"id" : "115839",
+		"name" : "Hinunangan"
+	}, {
+		"id" : "115851",
+		"name" : "Hinundayan"
+	}, {
+		"id" : "115866",
+		"name" : "Maasin"
+	}, {
+		"id" : "115908",
+		"name" : "Macrohon"
+	}, {
+		"id" : "115927",
+		"name" : "Malitbog"
+	}, {
+		"id" : "115949",
+		"name" : "Padre Burgos"
+	}, {
+		"id" : "115960",
+		"name" : "Saint Bernard"
+	}, {
+		"id" : "115989",
+		"name" : "Silago"
+	}, {
+		"id" : "115997",
+		"name" : "Sogod"
+	}, {
+		"id" : "116021",
+		"name" : "Tomas Oppus"
+	} ]
+}, {
+	"id" : "116037",
+	"name" : "Sultan Kudarat",
+	"city" : [ {
+		"id" : "116038",
+		"name" : "Bagumbayan"
+	}, {
+		"id" : "116040",
+		"name" : "Columbio"
+	}, {
+		"id" : "116042",
+		"name" : "Esperanza"
+	}, {
+		"id" : "116049",
+		"name" : "Isulan"
+	}, {
+		"id" : "116068",
+		"name" : "Kalamansig"
+	}, {
+		"id" : "116077",
+		"name" : "Kulaman"
+	}, {
+		"id" : "116079",
+		"name" : "Lambayong"
+	}, {
+		"id" : "116083",
+		"name" : "Lebak"
+	}, {
+		"id" : "116105",
+		"name" : "Lutayan"
+	}, {
+		"id" : "116107",
+		"name" : "Palimbang"
+	}, {
+		"id" : "116109",
+		"name" : "President Quirino"
+	}, {
+		"id" : "116112",
+		"name" : "Senator Ninoy Aquino"
+	}, {
+		"id" : "116114",
+		"name" : "Tacurong"
+	} ]
+}, {
+	"id" : "116136",
+	"name" : "Sulu",
+	"city" : [ {
+		"id" : "116137",
+		"name" : "Indanan"
+	}, {
+		"id" : "116157",
+		"name" : "Jolo"
+	}, {
+		"id" : "116233",
+		"name" : "Patikul"
+	} ]
+}, {
+	"id" : "116262",
+	"name" : "Surigao Del Norte",
+	"city" : [ {
+		"id" : "116263",
+		"name" : "Alegria"
+	}, {
+		"id" : "116275",
+		"name" : "Bacauag"
+	}, {
+		"id" : "116280",
+		"name" : "Burgos"
+	}, {
+		"id" : "116283",
+		"name" : "Claver"
+	}, {
+		"id" : "116297",
+		"name" : "Dapa"
+	}, {
+		"id" : "116323",
+		"name" : "Del Carmen"
+	}, {
+		"id" : "116343",
+		"name" : "General Luna"
+	}, {
+		"id" : "116374",
+		"name" : "Gigaquit"
+	}, {
+		"id" : "116384",
+		"name" : "Mainit"
+	}, {
+		"id" : "116408",
+		"name" : "Malimono"
+	}, {
+		"id" : "116413",
+		"name" : "Pilar"
+	}, {
+		"id" : "116417",
+		"name" : "Placer"
+	}, {
+		"id" : "116427",
+		"name" : "San Benito"
+	}, {
+		"id" : "116430",
+		"name" : "San Francisco (Anao-Aon)"
+	}, {
+		"id" : "116439",
+		"name" : "San Isidro"
+	}, {
+		"id" : "116446",
+		"name" : "Santa Monica"
+	}, {
+		"id" : "116455",
+		"name" : "Surigao City"
+	}, {
+		"id" : "116485",
+		"name" : "Tubod"
+	} ]
+}, {
+	"id" : "116496",
+	"name" : "Surigao Del Sur",
+	"city" : [ {
+		"id" : "116497",
+		"name" : "Bacauag"
+	}, {
+		"id" : "116502",
+		"name" : "Bagnan"
+	}, {
+		"id" : "116507",
+		"name" : "Barobo"
+	}, {
+		"id" : "116517",
+		"name" : "Bayabas"
+	}, {
+		"id" : "116523",
+		"name" : "Bislig"
+	}, {
+		"id" : "116550",
+		"name" : "Cagdianao"
+	}, {
+		"id" : "116552",
+		"name" : "Cagwait"
+	}, {
+		"id" : "116561",
+		"name" : "Cantilan"
+	}, {
+		"id" : "116584",
+		"name" : "Carmen"
+	}, {
+		"id" : "116596",
+		"name" : "Carrascal"
+	}, {
+		"id" : "116602",
+		"name" : "Claver"
+	}, {
+		"id" : "116612",
+		"name" : "Cortes"
+	}, {
+		"id" : "116627",
+		"name" : "Del Carmen"
+	}, {
+		"id" : "116631",
+		"name" : "Gigaquit"
+	}, {
+		"id" : "116641",
+		"name" : "Hinatuan"
+	}, {
+		"id" : "116653",
+		"name" : "Lanuza"
+	}, {
+		"id" : "116666",
+		"name" : "Lianga"
+	}, {
+		"id" : "116680",
+		"name" : "Lingig"
+	}, {
+		"id" : "116696",
+		"name" : "Madrid"
+	}, {
+		"id" : "116705",
+		"name" : "Mangagoy"
+	}, {
+		"id" : "116727",
+		"name" : "Marihatag"
+	}, {
+		"id" : "116733",
+		"name" : "Placer"
+	}, {
+		"id" : "116743",
+		"name" : "San Agustin"
+	}, {
+		"id" : "116745",
+		"name" : "Tabon"
+	}, {
+		"id" : "116759",
+		"name" : "Tagbina"
+	}, {
+		"id" : "116774",
+		"name" : "Tago"
+	}, {
+		"id" : "116783",
+		"name" : "Tandag"
+	} ]
+}, {
+	"id" : "116804",
+	"name" : "Tarlac",
+	"city" : [ {
+		"id" : "116805",
+		"name" : "Anao"
+	}, {
+		"id" : "116825",
+		"name" : "Bamban"
+	}, {
+		"id" : "116850",
+		"name" : "Camiling"
+	}, {
+		"id" : "116914",
+		"name" : "Capas"
+	}, {
+		"id" : "116944",
+		"name" : "Concepcion"
+	}, {
+		"id" : "116995",
+		"name" : "Cuyapo"
+	}, {
+		"id" : "117009",
+		"name" : "Gerona"
+	}, {
+		"id" : "117058",
+		"name" : "La Paz"
+	}, {
+		"id" : "117086",
+		"name" : "Mayantoc"
+	}, {
+		"id" : "117111",
+		"name" : "Moncada"
+	}, {
+		"id" : "117154",
+		"name" : "Nampicuan"
+	}, {
+		"id" : "117168",
+		"name" : "Paniqui"
+	}, {
+		"id" : "117208",
+		"name" : "Pura"
+	}, {
+		"id" : "117226",
+		"name" : "Ramos"
+	}, {
+		"id" : "117237",
+		"name" : "San Clemente"
+	}, {
+		"id" : "117252",
+		"name" : "San Jose"
+	}, {
+		"id" : "117266",
+		"name" : "San Manuel"
+	}, {
+		"id" : "117282",
+		"name" : "Santa Ignacia"
+	}, {
+		"id" : "117308",
+		"name" : "Tarlac City"
+	}, {
+		"id" : "117401",
+		"name" : "Victoria"
+	} ]
+}, {
+	"id" : "117432",
+	"name" : "Tawi-Tawi",
+	"city" : [ {
+		"id" : "117433",
+		"name" : "Bongao"
+	} ]
+}, {
+	"id" : "117446",
+	"name" : "Western Samar",
+	"city" : [ {
+		"id" : "117447",
+		"name" : "Basey"
+	}, {
+		"id" : "117465",
+		"name" : "Calbayog"
+	}, {
+		"id" : "117523",
+		"name" : "Calbiga"
+	}, {
+		"id" : "117536",
+		"name" : "Catbalogan City Proper"
+	}, {
+		"id" : "117586",
+		"name" : "Gandara"
+	}, {
+		"id" : "117602",
+		"name" : "Hinabangan"
+	}, {
+		"id" : "117610",
+		"name" : "Jiabong"
+	}, {
+		"id" : "117622",
+		"name" : "Motiong"
+	}, {
+		"id" : "117628",
+		"name" : "Oquendo"
+	}, {
+		"id" : "117631",
+		"name" : "Paranas Wright"
+	}, {
+		"id" : "117650",
+		"name" : "Pinabacdao"
+	}, {
+		"id" : "117663",
+		"name" : "San Jorge"
+	}, {
+		"id" : "117673",
+		"name" : "San Sebastian"
+	}, {
+		"id" : "117682",
+		"name" : "Santa Margarita"
+	}, {
+		"id" : "117695",
+		"name" : "Tarangnan"
+	} ]
+}, {
+	"id" : "117698",
+	"name" : "Zambales",
+	"city" : [ {
+		"id" : "117699",
+		"name" : "Botolan"
+	}, {
+		"id" : "117732",
+		"name" : "Cabangan"
+	}, {
+		"id" : "117755",
+		"name" : "Candelaria"
+	}, {
+		"id" : "117772",
+		"name" : "Castillejos"
+	}, {
+		"id" : "117787",
+		"name" : "Iba"
+	}, {
+		"id" : "117802",
+		"name" : "Masinloc"
+	}, {
+		"id" : "117816",
+		"name" : "Olongapo City"
+	}, {
+		"id" : "117834",
+		"name" : "Palauig"
+	}, {
+		"id" : "117854",
+		"name" : "San Antonio"
+	}, {
+		"id" : "117869",
+		"name" : "San Felipe"
+	}, {
+		"id" : "117881",
+		"name" : "San Marcelino"
+	}, {
+		"id" : "117900",
+		"name" : "San Narciso"
+	}, {
+		"id" : "117918",
+		"name" : "Santa Cruz"
+	}, {
+		"id" : "117944",
+		"name" : "Subic"
+	} ]
+}, {
+	"id" : "117961",
+	"name" : "Zamboanga Del Norte",
+	"city" : [ {
+		"id" : "117962",
+		"name" : "Baliguian"
+	}, {
+		"id" : "117980",
+		"name" : "Dapitan"
+	}, {
+		"id" : "118031",
+		"name" : "Dipolog"
+	}, {
+		"id" : "118057",
+		"name" : "Godod"
+	}, {
+		"id" : "118075",
+		"name" : "Gutalac"
+	}, {
+		"id" : "118109",
+		"name" : "Jose Dalman"
+	}, {
+		"id" : "118128",
+		"name" : "Kalawit"
+	}, {
+		"id" : "118130",
+		"name" : "Katipunan"
+	}, {
+		"id" : "118153",
+		"name" : "La Libertad"
+	}, {
+		"id" : "118167",
+		"name" : "Labason"
+	}, {
+		"id" : "118174",
+		"name" : "Leon Postigo"
+	}, {
+		"id" : "118183",
+		"name" : "Liloy"
+	}, {
+		"id" : "118198",
+		"name" : "Manukan"
+	}, {
+		"id" : "118211",
+		"name" : "Mutia"
+	}, {
+		"id" : "118228",
+		"name" : "Pinan"
+	}, {
+		"id" : "118233",
+		"name" : "Polanco"
+	}, {
+		"id" : "118240",
+		"name" : "Rizal"
+	}, {
+		"id" : "118247",
+		"name" : "Roxas"
+	}, {
+		"id" : "118257",
+		"name" : "Salug"
+	}, {
+		"id" : "118267",
+		"name" : "Sergio Osmena"
+	}, {
+		"id" : "118307",
+		"name" : "Sibuco"
+	}, {
+		"id" : "118336",
+		"name" : "Sibutad"
+	}, {
+		"id" : "118353",
+		"name" : "Sindangan"
+	}, {
+		"id" : "118406",
+		"name" : "Siocon"
+	}, {
+		"id" : "118433",
+		"name" : "Sirawai"
+	}, {
+		"id" : "118468",
+		"name" : "Tampilisan"
+	} ]
+}, {
+	"id" : "118477",
+	"name" : "Zamboanga Del Sur",
+	"city" : [ {
+		"id" : "118478",
+		"name" : "Aurora"
+	}, {
+		"id" : "118519",
+		"name" : "Dimataling"
+	}, {
+		"id" : "118527",
+		"name" : "Dinas"
+	}, {
+		"id" : "118535",
+		"name" : "Dumalinao"
+	}, {
+		"id" : "118547",
+		"name" : "Dumingag"
+	}, {
+		"id" : "118558",
+		"name" : "Guipos"
+	}, {
+		"id" : "118566",
+		"name" : "Josefina"
+	}, {
+		"id" : "118573",
+		"name" : "Kumalarang"
+	}, {
+		"id" : "118575",
+		"name" : "Labangan"
+	}, {
+		"id" : "118590",
+		"name" : "Lakewood"
+	}, {
+		"id" : "118592",
+		"name" : "Lapuyan"
+	}, {
+		"id" : "118599",
+		"name" : "Mahayag"
+	}, {
+		"id" : "118621",
+		"name" : "Margosatubig"
+	}, {
+		"id" : "118631",
+		"name" : "Midsalip"
+	}, {
+		"id" : "118638",
+		"name" : "Molave"
+	}, {
+		"id" : "118654",
+		"name" : "Pagadian City"
+	}, {
+		"id" : "118692",
+		"name" : "Pitogo"
+	}, {
+		"id" : "118695",
+		"name" : "Ramon Magsaysay"
+	}, {
+		"id" : "118708",
+		"name" : "San Miguel"
+	}, {
+		"id" : "118714",
+		"name" : "Sominot"
+	}, {
+		"id" : "118723",
+		"name" : "Tabina"
+	}, {
+		"id" : "118727",
+		"name" : "Tambulig"
+	}, {
+		"id" : "118738",
+		"name" : "Tigbao"
+	}, {
+		"id" : "118753",
+		"name" : "Tukuran"
+	}, {
+		"id" : "118769",
+		"name" : "Vincenzo Sagun"
+	}, {
+		"id" : "118775",
+		"name" : "Zamboanga City"
+	} ]
+} ]
+

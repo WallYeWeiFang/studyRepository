@@ -1,0 +1,26 @@
+三维展示图、爆炸图、调整图通用同一个接口
+
+http://three.inffur.com/
+
+展示图接口 scheme_id token type
+展示图   type=show
+例如：http://three.inffur.com/?scheme_id=966&token=e93de80c871c5e9685915c5e037c459c&type=show
+
+爆炸图接口 scheme_id token type
+爆炸图  type=explosive
+例如：http://three.inffur.com/?scheme_id=966&token=e93de80c871c5e9685915c5e037c459c&type=explosive
+
+入墙式洞口调整接口 type
+入墙式洞口调整接口 type=adjustrqs
+例如：http://three.inffur.com/?type=adjustrqs
+然后调用
+eggshell.eventManager.innerAdjust.setAdjustData(holeType,newHoleWidth,newChestHeight,newHoleHeight,leftPillarWidth,rightPillarWidth,bearColor){//洞口类型、A洞口宽度、B柜子高度、C洞口高度左柱体、右柱体值柜子高度、收口条颜色
+
+例如：this.setAdjustData(1,2500,2410,2600,200,200,'white');   //white
+ 
+gray
+ no
+
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+之前的展示图、爆炸图接口不再维护，请更换接口！

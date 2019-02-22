@@ -1,0 +1,1 @@
+{"柜体构件明细":"板材信息","移门规格":[{"移门规格":"door_spec"},{"单扇面积":"s_door_area"},{"数量":"door_has_count"},{"合计面积":"door_area"},{"单价":"s_door_price"},{"合计金额(元)":"dis_door_price"}],"滑动门明细":"移门规格","板材信息":[{"板材规格":"product_name"},{"面积":"product_area"},{"单价":"product_dis_price"},{"小计(元)":"product_dis_total_price"}]}

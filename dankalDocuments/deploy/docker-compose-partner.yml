@@ -1,0 +1,115 @@
+version: '2'
+services:
+
+  nginx-root:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/nginx
+    container_name: nginx-root
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - /etc/nginx/conf.d
+      - /etc/nginx/vhost.d
+      - /usr/share/nginx/html
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+      - /home/deploy/nginx/certs:/etc/nginx/certs:ro
+  nginx-gen:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/nginx-gen
+    container_name: nginx-gen
+    volumes_from:
+      - nginx-root
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+    command: -notify-sighup nginx-root -watch -wait 5s:30s /etc/docker-gen/templates/nginx.tmpl /etc/nginx/conf.d/default.conf
+  nginx-certbot:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/nginx-certbot
+    container_name: nginx-certbot
+    environment:
+      - NGINX_DOCKER_GEN_CONTAINER=nginx-gen
+      - NGINX_PROXY_CONTAINER=nginx-root
+    volumes_from:
+      - nginx-root
+    volumes:
+      - /home/deploy/nginx/certs:/etc/nginx/certs:rw
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+
+  mysql-dev:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/mysql
+    container_name: mysql-dev
+    volumes:
+      - /home/deploy/data/mysql-dev:/var/lib/mysql
+    ports:
+      - 3306:3306
+  mysql-stage:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/mysql
+    container_name: mysql-stage
+    volumes:
+      - /home/deploy/data/mysql-stage:/var/lib/mysql
+    ports:
+      - 3307:3306
+  mysql-prod:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/mysql
+    container_name: mysql-prod
+    volumes:
+      - /home/deploy/data/mysql-prod:/var/lib/mysql
+
+  redis-dev:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/redis
+    container_name: redis-dev
+    volumes:
+      - /home/deploy/data/redis-dev:/data
+    ports:
+      - 6379:6379
+  redis-stage:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/redis
+    container_name: redis-stage
+    volumes:
+      - /home/deploy/data/redis-stage:/data
+    ports:
+      - 6380:6379
+  redis-prod:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/redis
+    container_name: redis-prod
+    volumes:
+      - /home/deploy/data/redis-prod:/data
+
+  javaee-bsd-dev:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/javaee-bsd-dev
+    container_name: javaee-bsd-dev
+    environment:
+      - VIRTUAL_HOST=api-bsd-dev.dankal.cn
+      - LETSENCRYPT_HOST=api-bsd-dev.dankal.cn
+    links:
+      - redis-dev:redis
+      - mysql-dev:mysql
+  javaee-bsd-stage:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/javaee-bsd-stage
+    container_name: javaee-bsd-stage
+    environment:
+      - VIRTUAL_HOST=api-bsd-stage.dankal.cn
+      - LETSENCRYPT_HOST=api-bsd-stage.dankal.cn
+    links:
+      - redis-stage:redis
+      - mysql-stage:mysql
+  javaee-bsd-prod:
+    restart: always
+    image: registry.cn-shenzhen.aliyuncs.com/dankal/javaee-bsd-prod
+    container_name: javaee-bsd-prod
+    environment:
+      - VIRTUAL_HOST=api-bsd.dankal.cn
+      - LETSENCRYPT_HOST=api-bsd.dankal.cn
+    links:
+      - redis-prod:redis
+      - mysql-prod:mysql
+  

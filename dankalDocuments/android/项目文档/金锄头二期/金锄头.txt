@@ -1,0 +1,21 @@
+13307450001
+http://hoekj.cn/
+
+
+开发文档 项目交接 开发规范
+
+互相学习
+
+协作问题
+
+codeReview 星期五下午
+
+准备话题 
+
+
+
+weixin 
+<Wechat AppId="wxe8bd1095655d3f6c" AppSecret="b1acb81b59d77d123f1cc7d581339165"
+
+qq
+QQ的APPID换了 APP ID : 1105629241  APP KEY : aXrgpb8NxUOTNtsc

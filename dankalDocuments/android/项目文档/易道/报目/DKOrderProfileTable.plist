@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>滑动门明细</key>
+	<string>移门规格</string>
+	<key>柜体构件明细</key>
+	<string>板材信息</string>
+	<key>板材信息</key>
+	<array>
+		<dict>
+			<key>板材规格</key>
+			<string>product_name</string>
+		</dict>
+		<dict>
+			<key>面积</key>
+			<string>product_area</string>
+		</dict>
+		<dict>
+			<key>单价</key>
+			<string>product_dis_price</string>
+		</dict>
+		<dict>
+			<key>小计(元)</key>
+			<string>product_dis_total_price</string>
+		</dict>
+	</array>
+	<key>移门规格</key>
+	<array>
+		<dict>
+			<key>移门规格</key>
+			<string>door_spec</string>
+		</dict>
+		<dict>
+			<key>单扇面积</key>
+			<string>s_door_area</string>
+		</dict>
+		<dict>
+			<key>数量</key>
+			<string>door_has_count</string>
+		</dict>
+		<dict>
+			<key>合计面积</key>
+			<string>door_area</string>
+		</dict>
+		<dict>
+			<key>单价</key>
+			<string>s_door_price</string>
+		</dict>
+		<dict>
+			<key>合计金额(元)</key>
+			<string>dis_door_price</string>
+		</dict>
+	</array>
+</dict>
+</plist>
